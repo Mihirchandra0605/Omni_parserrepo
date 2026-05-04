@@ -1,0 +1,1642 @@
+{
+    "components": [
+        {
+            "id": 0,
+            "class": "Compo",
+            "height": 40,
+            "width": 230,
+            "position": {
+                "column_min": 0,
+                "row_min": 0,
+                "column_max": 230,
+                "row_max": 40
+            },
+            "text": "Forms . Bootstrap",
+            "label": "text"
+        },
+        {
+            "id": 1,
+            "class": "Compo",
+            "height": 105,
+            "width": 533,
+            "position": {
+                "column_min": 0,
+                "row_min": 24,
+                "column_max": 533,
+                "row_max": 129
+            },
+            "text": "https | /getbootstrap com/docs/4O/components/forms/#layout",
+            "label": "text"
+        },
+        {
+            "id": 2,
+            "class": "Compo",
+            "height": 105,
+            "width": 1199,
+            "position": {
+                "column_min": 720,
+                "row_min": 21,
+                "column_max": 1919,
+                "row_max": 126
+            },
+            "text": "B5   A\"",
+            "label": "text"
+        },
+        {
+            "id": 3,
+            "class": "Compo",
+            "height": 280,
+            "width": 603,
+            "position": {
+                "column_min": 88,
+                "row_min": 90,
+                "column_max": 691,
+                "row_max": 370
+            },
+            "text": "Overview",
+            "label": "text"
+        },
+        {
+            "id": 4,
+            "class": "Compo",
+            "height": 333,
+            "width": 1039,
+            "position": {
+                "column_min": 0,
+                "row_min": 130,
+                "column_max": 1039,
+                "row_max": 463
+            },
+            "text": "Bootstrap's form controls expand on our Rebooted form styles with classes. Use these",
+            "label": "text"
+        },
+        {
+            "id": 5,
+            "class": "Compo",
+            "height": 369,
+            "width": 838,
+            "position": {
+                "column_min": 0,
+                "row_min": 148,
+                "column_max": 838,
+                "row_max": 517
+            },
+            "text": "classes to opt into their customized displays for",
+            "label": "text"
+        },
+        {
+            "id": 6,
+            "class": "Compo",
+            "height": 362,
+            "width": 1094,
+            "position": {
+                "column_min": 371,
+                "row_min": 155,
+                "column_max": 1465,
+                "row_max": 517
+            },
+            "text": "more consistent",
+            "label": "text"
+        },
+        {
+            "id": 7,
+            "class": "Compo",
+            "height": 369,
+            "width": 1275,
+            "position": {
+                "column_min": 452,
+                "row_min": 145,
+                "column_max": 1727,
+                "row_max": 514
+            },
+            "text": "rendering across",
+            "label": "text"
+        },
+        {
+            "id": 8,
+            "class": "Compo",
+            "height": 390,
+            "width": 142,
+            "position": {
+                "column_min": 0,
+                "row_min": 156,
+                "column_max": 142,
+                "row_max": 546
+            },
+            "text": "Getting started",
+            "label": "text"
+        },
+        {
+            "id": 9,
+            "class": "Compo",
+            "height": 398,
+            "width": 623,
+            "position": {
+                "column_min": 78,
+                "row_min": 173,
+                "column_max": 701,
+                "row_max": 571
+            },
+            "text": "browsers and devices",
+            "label": "text"
+        },
+        {
+            "id": 10,
+            "class": "Compo",
+            "height": 458,
+            "width": 543,
+            "position": {
+                "column_min": 118,
+                "row_min": 203,
+                "column_max": 661,
+                "row_max": 661
+            },
+            "text": "Be sure to use",
+            "label": "text"
+        },
+        {
+            "id": 11,
+            "class": "Compo",
+            "height": 469,
+            "width": 997,
+            "position": {
+                "column_min": 75,
+                "row_min": 193,
+                "column_max": 1072,
+                "row_max": 662
+            },
+            "text": "appropriate type attribute on all inputs",
+            "label": "text"
+        },
+        {
+            "id": 12,
+            "class": "Compo",
+            "height": 459,
+            "width": 1305,
+            "position": {
+                "column_min": 397,
+                "row_min": 200,
+                "column_max": 1702,
+                "row_max": 659
+            },
+            "text": "email for email address",
+            "label": "text"
+        },
+        {
+            "id": 13,
+            "class": "Compo",
+            "height": 503,
+            "width": 1024,
+            "position": {
+                "column_min": 0,
+                "row_min": 213,
+                "column_max": 1024,
+                "row_max": 716
+            },
+            "text": "or number for numerical information) to take advantage of newer input controls like",
+            "label": "text"
+        },
+        {
+            "id": 14,
+            "class": "Compo",
+            "height": 533,
+            "width": 834,
+            "position": {
+                "column_min": 0,
+                "row_min": 237,
+                "column_max": 834,
+                "row_max": 770
+            },
+            "text": "email verification, number selection, and more.",
+            "label": "text"
+        },
+        {
+            "id": 15,
+            "class": "Compo",
+            "height": 592,
+            "width": 461,
+            "position": {
+                "column_min": 159,
+                "row_min": 270,
+                "column_max": 620,
+                "row_max": 862
+            },
+            "text": "Here' s",
+            "label": "text"
+        },
+        {
+            "id": 16,
+            "class": "Compo",
+            "height": 599,
+            "width": 1102,
+            "position": {
+                "column_min": 0,
+                "row_min": 262,
+                "column_max": 1102,
+                "row_max": 861
+            },
+            "text": "quick example to demonstrate Bootstrap's form styles Keep reading for",
+            "label": "text"
+        },
+        {
+            "id": 17,
+            "class": "Compo",
+            "height": 630,
+            "width": 589,
+            "position": {
+                "column_min": 95,
+                "row_min": 286,
+                "column_max": 684,
+                "row_max": 916
+            },
+            "text": "documentation on",
+            "label": "text"
+        },
+        {
+            "id": 18,
+            "class": "Compo",
+            "height": 635,
+            "width": 1021,
+            "position": {
+                "column_min": 78,
+                "row_min": 279,
+                "column_max": 1099,
+                "row_max": 914
+            },
+            "text": "required classes, form layout; and more:",
+            "label": "text"
+        },
+        {
+            "id": 19,
+            "class": "Compo",
+            "height": 727,
+            "width": 581,
+            "position": {
+                "column_min": 139,
+                "row_min": 337,
+                "column_max": 720,
+                "row_max": 1064
+            },
+            "text": "Email address",
+            "label": "text"
+        },
+        {
+            "id": 20,
+            "class": "Compo",
+            "height": 713,
+            "width": 573,
+            "position": {
+                "column_min": 163,
+                "row_min": 366,
+                "column_max": 736,
+                "row_max": 1079
+            },
+            "text": "Enter email",
+            "label": "text"
+        },
+        {
+            "id": 21,
+            "class": "Compo",
+            "height": 688,
+            "width": 674,
+            "position": {
+                "column_min": 92,
+                "row_min": 391,
+                "column_max": 766,
+                "row_max": 1079
+            },
+            "text": "We'Il never share your email",
+            "label": "text"
+        },
+        {
+            "id": 22,
+            "class": "Compo",
+            "height": 688,
+            "width": 822,
+            "position": {
+                "column_min": 301,
+                "row_min": 391,
+                "column_max": 1123,
+                "row_max": 1079
+            },
+            "text": "anyone else:",
+            "label": "text"
+        },
+        {
+            "id": 23,
+            "class": "Compo",
+            "height": 659,
+            "width": 533,
+            "position": {
+                "column_min": 163,
+                "row_min": 420,
+                "column_max": 696,
+                "row_max": 1079
+            },
+            "text": "Password",
+            "label": "text"
+        },
+        {
+            "id": 24,
+            "class": "Compo",
+            "height": 633,
+            "width": 551,
+            "position": {
+                "column_min": 172,
+                "row_min": 446,
+                "column_max": 723,
+                "row_max": 1079
+            },
+            "text": "Password",
+            "label": "text"
+        },
+        {
+            "id": 25,
+            "class": "Compo",
+            "height": 602,
+            "width": 95,
+            "position": {
+                "column_min": 0,
+                "row_min": 477,
+                "column_max": 95,
+                "row_max": 1079
+            },
+            "text": "Formc",
+            "label": "text"
+        },
+        {
+            "id": 26,
+            "class": "Compo",
+            "height": 599,
+            "width": 1153,
+            "position": {
+                "column_min": 766,
+                "row_min": 480,
+                "column_max": 1919,
+                "row_max": 1079
+            },
+            "text": "Validation",
+            "label": "text"
+        },
+        {
+            "id": 27,
+            "class": "Compo",
+            "height": 579,
+            "width": 1021,
+            "position": {
+                "column_min": 898,
+                "row_min": 500,
+                "column_max": 1919,
+                "row_max": 1079
+            },
+            "text": "17*09",
+            "label": "text"
+        },
+        {
+            "id": 28,
+            "class": "Compo",
+            "height": 567,
+            "width": 1071,
+            "position": {
+                "column_min": 848,
+                "row_min": 512,
+                "column_max": 1919,
+                "row_max": 1079
+            },
+            "text": "30-03-2026",
+            "label": "text"
+        },
+        {
+            "id": 29,
+            "class": "Compo",
+            "height": 465,
+            "width": 1049,
+            "position": {
+                "column_min": 470,
+                "row_min": 196,
+                "column_max": 1519,
+                "row_max": 661
+            },
+            "text": "(e.g ",
+            "label": "text"
+        },
+        {
+            "id": 30,
+            "class": "Compo",
+            "height": 201,
+            "width": 1144,
+            "position": {
+                "column_min": 775,
+                "row_min": 36,
+                "column_max": 1919,
+                "row_max": 237
+            },
+            "text": "Download ",
+            "label": "icon"
+        },
+        {
+            "id": 31,
+            "class": "Compo",
+            "height": 299,
+            "width": 176,
+            "position": {
+                "column_min": 0,
+                "row_min": 87,
+                "column_max": 176,
+                "row_max": 386
+            },
+            "text": "Search _ ",
+            "label": "icon"
+        },
+        {
+            "id": 32,
+            "class": "Compo",
+            "height": 667,
+            "width": 188,
+            "position": {
+                "column_min": 0,
+                "row_min": 412,
+                "column_max": 188,
+                "row_max": 1079
+            },
+            "text": "Collapse ",
+            "label": "icon"
+        },
+        {
+            "id": 33,
+            "class": "Compo",
+            "height": 644,
+            "width": 186,
+            "position": {
+                "column_min": 0,
+                "row_min": 435,
+                "column_max": 186,
+                "row_max": 1079
+            },
+            "text": "Dropdowns ",
+            "label": "icon"
+        },
+        {
+            "id": 34,
+            "class": "Compo",
+            "height": 116,
+            "width": 1074,
+            "position": {
+                "column_min": 845,
+                "row_min": 5,
+                "column_max": 1919,
+                "row_max": 121
+            },
+            "text": "Chat ",
+            "label": "icon"
+        },
+        {
+            "id": 35,
+            "class": "Compo",
+            "height": 690,
+            "width": 188,
+            "position": {
+                "column_min": 0,
+                "row_min": 389,
+                "column_max": 188,
+                "row_max": 1079
+            },
+            "text": "Carousel ",
+            "label": "icon"
+        },
+        {
+            "id": 36,
+            "class": "Compo",
+            "height": 711,
+            "width": 189,
+            "position": {
+                "column_min": 0,
+                "row_min": 368,
+                "column_max": 189,
+                "row_max": 1079
+            },
+            "text": "Card ",
+            "label": "icon"
+        },
+        {
+            "id": 37,
+            "class": "Compo",
+            "height": 734,
+            "width": 188,
+            "position": {
+                "column_min": 0,
+                "row_min": 345,
+                "column_max": 188,
+                "row_max": 1079
+            },
+            "text": "Button group ",
+            "label": "icon"
+        },
+        {
+            "id": 38,
+            "class": "Compo",
+            "height": 740,
+            "width": 187,
+            "position": {
+                "column_min": 0,
+                "row_min": 324,
+                "column_max": 187,
+                "row_max": 1064
+            },
+            "text": "Buttons ",
+            "label": "icon"
+        },
+        {
+            "id": 39,
+            "class": "Compo",
+            "height": 696,
+            "width": 184,
+            "position": {
+                "column_min": 0,
+                "row_min": 301,
+                "column_max": 184,
+                "row_max": 997
+            },
+            "text": "Breadcrumb ",
+            "label": "icon"
+        },
+        {
+            "id": 40,
+            "class": "Compo",
+            "height": 444,
+            "width": 182,
+            "position": {
+                "column_min": 0,
+                "row_min": 170,
+                "column_max": 182,
+                "row_max": 614
+            },
+            "text": "Layout ",
+            "label": "icon"
+        },
+        {
+            "id": 41,
+            "class": "Compo",
+            "height": 651,
+            "width": 183,
+            "position": {
+                "column_min": 0,
+                "row_min": 279,
+                "column_max": 183,
+                "row_max": 930
+            },
+            "text": "Badge ",
+            "label": "icon"
+        },
+        {
+            "id": 42,
+            "class": "Compo",
+            "height": 606,
+            "width": 182,
+            "position": {
+                "column_min": 0,
+                "row_min": 256,
+                "column_max": 182,
+                "row_max": 862
+            },
+            "text": "Alerts ",
+            "label": "icon"
+        },
+        {
+            "id": 43,
+            "class": "Compo",
+            "height": 329,
+            "width": 1243,
+            "position": {
+                "column_min": 676,
+                "row_min": 125,
+                "column_max": 1919,
+                "row_max": 454
+            },
+            "text": "Form controls ",
+            "label": "icon"
+        },
+        {
+            "id": 44,
+            "class": "Compo",
+            "height": 685,
+            "width": 1225,
+            "position": {
+                "column_min": 694,
+                "row_min": 302,
+                "column_max": 1919,
+                "row_max": 987
+            },
+            "text": "Without labels ",
+            "label": "icon"
+        },
+        {
+            "id": 45,
+            "class": "Compo",
+            "height": 739,
+            "width": 1229,
+            "position": {
+                "column_min": 690,
+                "row_min": 340,
+                "column_max": 1919,
+                "row_max": 1079
+            },
+            "text": "Form groups ",
+            "label": "icon"
+        },
+        {
+            "id": 46,
+            "class": "Compo",
+            "height": 492,
+            "width": 181,
+            "position": {
+                "column_min": 0,
+                "row_min": 195,
+                "column_max": 181,
+                "row_max": 687
+            },
+            "text": "Content ",
+            "label": "icon"
+        },
+        {
+            "id": 47,
+            "class": "Compo",
+            "height": 439,
+            "width": 1228,
+            "position": {
+                "column_min": 691,
+                "row_min": 182,
+                "column_max": 1919,
+                "row_max": 621
+            },
+            "text": "Readonly plain ",
+            "label": "icon"
+        },
+        {
+            "id": 48,
+            "class": "Compo",
+            "height": 720,
+            "width": 1218,
+            "position": {
+                "column_min": 701,
+                "row_min": 359,
+                "column_max": 1919,
+                "row_max": 1079
+            },
+            "text": "Form grid ",
+            "label": "icon"
+        },
+        {
+            "id": 49,
+            "class": "Compo",
+            "height": 589,
+            "width": 1144,
+            "position": {
+                "column_min": 775,
+                "row_min": 490,
+                "column_max": 1919,
+                "row_max": 1079
+            },
+            "text": "ENG ",
+            "label": "icon"
+        },
+        {
+            "id": 50,
+            "class": "Compo",
+            "height": 562,
+            "width": 182,
+            "position": {
+                "column_min": 0,
+                "row_min": 229,
+                "column_max": 182,
+                "row_max": 791
+            },
+            "text": "Components ",
+            "label": "icon"
+        },
+        {
+            "id": 51,
+            "class": "Compo",
+            "height": 366,
+            "width": 1237,
+            "position": {
+                "column_min": 682,
+                "row_min": 144,
+                "column_max": 1919,
+                "row_max": 510
+            },
+            "text": "Sizing ",
+            "label": "icon"
+        },
+        {
+            "id": 52,
+            "class": "Compo",
+            "height": 404,
+            "width": 1239,
+            "position": {
+                "column_min": 680,
+                "row_min": 162,
+                "column_max": 1919,
+                "row_max": 566
+            },
+            "text": "Readonly ",
+            "label": "icon"
+        },
+        {
+            "id": 53,
+            "class": "Compo",
+            "height": 292,
+            "width": 1243,
+            "position": {
+                "column_min": 676,
+                "row_min": 101,
+                "column_max": 1919,
+                "row_max": 393
+            },
+            "text": "Overview ",
+            "label": "icon"
+        },
+        {
+            "id": 54,
+            "class": "Compo",
+            "height": 647,
+            "width": 1233,
+            "position": {
+                "column_min": 686,
+                "row_min": 285,
+                "column_max": 1919,
+                "row_max": 932
+            },
+            "text": "Inline ",
+            "label": "icon"
+        },
+        {
+            "id": 55,
+            "class": "Compo",
+            "height": 610,
+            "width": 1222,
+            "position": {
+                "column_min": 697,
+                "row_min": 267,
+                "column_max": 1919,
+                "row_max": 877
+            },
+            "text": "(stacked) ",
+            "label": "icon"
+        },
+        {
+            "id": 56,
+            "class": "Compo",
+            "height": 701,
+            "width": 1233,
+            "position": {
+                "column_min": 686,
+                "row_min": 378,
+                "column_max": 1919,
+                "row_max": 1079
+            },
+            "text": "Inline forms ",
+            "label": "icon"
+        },
+        {
+            "id": 57,
+            "class": "Compo",
+            "height": 722,
+            "width": 1226,
+            "position": {
+                "column_min": 693,
+                "row_min": 322,
+                "column_max": 1919,
+                "row_max": 1044
+            },
+            "text": "Layout ",
+            "label": "icon"
+        },
+        {
+            "id": 58,
+            "class": "Compo",
+            "height": 195,
+            "width": 1216,
+            "position": {
+                "column_min": 703,
+                "row_min": 44,
+                "column_max": 1919,
+                "row_max": 239
+            },
+            "text": "V4.0 ",
+            "label": "icon"
+        },
+        {
+            "id": 59,
+            "class": "Compo",
+            "height": 471,
+            "width": 1232,
+            "position": {
+                "column_min": 687,
+                "row_min": 201,
+                "column_max": 1919,
+                "row_max": 672
+            },
+            "text": "text ",
+            "label": "icon"
+        },
+        {
+            "id": 60,
+            "class": "Compo",
+            "height": 188,
+            "width": 376,
+            "position": {
+                "column_min": 0,
+                "row_min": 53,
+                "column_max": 376,
+                "row_max": 241
+            },
+            "text": "Documentation ",
+            "label": "icon"
+        },
+        {
+            "id": 61,
+            "class": "Compo",
+            "height": 193,
+            "width": 498,
+            "position": {
+                "column_min": 129,
+                "row_min": 45,
+                "column_max": 627,
+                "row_max": 238
+            },
+            "text": "Examples ",
+            "label": "icon"
+        },
+        {
+            "id": 62,
+            "class": "Compo",
+            "height": 664,
+            "width": 1243,
+            "position": {
+                "column_min": 676,
+                "row_min": 415,
+                "column_max": 1919,
+                "row_max": 1079
+            },
+            "text": "Disabled forms ",
+            "label": "icon"
+        },
+        {
+            "id": 63,
+            "class": "Compo",
+            "height": 189,
+            "width": 571,
+            "position": {
+                "column_min": 216,
+                "row_min": 51,
+                "column_max": 787,
+                "row_max": 240
+            },
+            "text": "Expo ",
+            "label": "icon"
+        },
+        {
+            "id": 64,
+            "class": "Compo",
+            "height": 575,
+            "width": 1236,
+            "position": {
+                "column_min": 683,
+                "row_min": 251,
+                "column_max": 1919,
+                "row_max": 826
+            },
+            "text": "Default ",
+            "label": "icon"
+        },
+        {
+            "id": 65,
+            "class": "Compo",
+            "height": 682,
+            "width": 1234,
+            "position": {
+                "column_min": 685,
+                "row_min": 397,
+                "column_max": 1919,
+                "row_max": 1079
+            },
+            "text": "Help text ",
+            "label": "icon"
+        },
+        {
+            "id": 66,
+            "class": "Compo",
+            "height": 643,
+            "width": 1240,
+            "position": {
+                "column_min": 679,
+                "row_min": 436,
+                "column_max": 1919,
+                "row_max": 1079
+            },
+            "text": "Cross-browser ",
+            "label": "icon"
+        },
+        {
+            "id": 67,
+            "class": "Compo",
+            "height": 200,
+            "width": 182,
+            "position": {
+                "column_min": 7,
+                "row_min": 40,
+                "column_max": 189,
+                "row_max": 240
+            },
+            "text": "Home ",
+            "label": "icon"
+        },
+        {
+            "id": 68,
+            "class": "Compo",
+            "height": 192,
+            "width": 644,
+            "position": {
+                "column_min": 253,
+                "row_min": 50,
+                "column_max": 897,
+                "row_max": 242
+            },
+            "text": "Blog ",
+            "label": "icon"
+        },
+        {
+            "id": 69,
+            "class": "Compo",
+            "height": 542,
+            "width": 1232,
+            "position": {
+                "column_min": 687,
+                "row_min": 200,
+                "column_max": 1919,
+                "row_max": 742
+            },
+            "text": "Checkboxes and radios ",
+            "label": "icon"
+        },
+        {
+            "id": 70,
+            "class": "Compo",
+            "height": 626,
+            "width": 1247,
+            "position": {
+                "column_min": 672,
+                "row_min": 453,
+                "column_max": 1919,
+                "row_max": 1079
+            },
+            "text": "compatibility ",
+            "label": "icon"
+        },
+        {
+            "id": 71,
+            "class": "Compo",
+            "height": 603,
+            "width": 988,
+            "position": {
+                "column_min": 431,
+                "row_min": 476,
+                "column_max": 1419,
+                "row_max": 1079
+            },
+            "text": "A folder for keeping files or documents.",
+            "label": "icon"
+        },
+        {
+            "id": 72,
+            "class": "Compo",
+            "height": 114,
+            "width": 1094,
+            "position": {
+                "column_min": 825,
+                "row_min": 9,
+                "column_max": 1919,
+                "row_max": 123
+            },
+            "text": "A single circle or circle shape.",
+            "label": "icon"
+        },
+        {
+            "id": 73,
+            "class": "Compo",
+            "height": 112,
+            "width": 1116,
+            "position": {
+                "column_min": 803,
+                "row_min": 11,
+                "column_max": 1919,
+                "row_max": 123
+            },
+            "text": "A simple line or pull up button.",
+            "label": "icon"
+        },
+        {
+            "id": 74,
+            "class": "Compo",
+            "height": 113,
+            "width": 104,
+            "position": {
+                "column_min": 10,
+                "row_min": 11,
+                "column_max": 114,
+                "row_max": 124
+            },
+            "text": "Refresh or restart function.",
+            "label": "icon"
+        },
+        {
+            "id": 75,
+            "class": "Compo",
+            "height": 600,
+            "width": 851,
+            "position": {
+                "column_min": 365,
+                "row_min": 479,
+                "column_max": 1216,
+                "row_max": 1079
+            },
+            "text": "A symbol or icon indicating someone's name or contact.",
+            "label": "icon"
+        },
+        {
+            "id": 76,
+            "class": "Compo",
+            "height": 32,
+            "width": 1051,
+            "position": {
+                "column_min": 868,
+                "row_min": 0,
+                "column_max": 1919,
+                "row_max": 32
+            },
+            "text": "A simple symbol or icon.",
+            "label": "icon"
+        },
+        {
+            "id": 77,
+            "class": "Compo",
+            "height": 600,
+            "width": 916,
+            "position": {
+                "column_min": 403,
+                "row_min": 479,
+                "column_max": 1319,
+                "row_max": 1079
+            },
+            "text": "A web browser logo.",
+            "label": "icon"
+        },
+        {
+            "id": 78,
+            "class": "Compo",
+            "height": 110,
+            "width": 1163,
+            "position": {
+                "column_min": 756,
+                "row_min": 12,
+                "column_max": 1919,
+                "row_max": 122
+            },
+            "text": "A simple letter \"A\".",
+            "label": "icon"
+        },
+        {
+            "id": 79,
+            "class": "Compo",
+            "height": 598,
+            "width": 1061,
+            "position": {
+                "column_min": 470,
+                "row_min": 481,
+                "column_max": 1531,
+                "row_max": 1079
+            },
+            "text": "A blue icon or symbol indicating a push button or push button.",
+            "label": "icon"
+        },
+        {
+            "id": 80,
+            "class": "Compo",
+            "height": 604,
+            "width": 1201,
+            "position": {
+                "column_min": 718,
+                "row_min": 475,
+                "column_max": 1919,
+                "row_max": 1079
+            },
+            "text": "A microphone icon.",
+            "label": "icon"
+        },
+        {
+            "id": 81,
+            "class": "Compo",
+            "height": 595,
+            "width": 1219,
+            "position": {
+                "column_min": 548,
+                "row_min": 484,
+                "column_max": 1767,
+                "row_max": 1079
+            },
+            "text": "A sticky note or sticky note.",
+            "label": "icon"
+        },
+        {
+            "id": 82,
+            "class": "Compo",
+            "height": 110,
+            "width": 1181,
+            "position": {
+                "column_min": 738,
+                "row_min": 13,
+                "column_max": 1919,
+                "row_max": 123
+            },
+            "text": "Add or Add function.",
+            "label": "icon"
+        },
+        {
+            "id": 83,
+            "class": "Compo",
+            "height": 150,
+            "width": 990,
+            "position": {
+                "column_min": 929,
+                "row_min": 42,
+                "column_max": 1919,
+                "row_max": 192
+            },
+            "text": "A low profile or profile icon.",
+            "label": "icon"
+        },
+        {
+            "id": 84,
+            "class": "Compo",
+            "height": 593,
+            "width": 1279,
+            "position": {
+                "column_min": 592,
+                "row_min": 486,
+                "column_max": 1871,
+                "row_max": 1079
+            },
+            "text": "A button for adjusting the settings or settings.",
+            "label": "icon"
+        },
+        {
+            "id": 85,
+            "class": "Compo",
+            "height": 595,
+            "width": 1138,
+            "position": {
+                "column_min": 516,
+                "row_min": 484,
+                "column_max": 1654,
+                "row_max": 1079
+            },
+            "text": "A pencil sharpener tool.",
+            "label": "icon"
+        },
+        {
+            "id": 86,
+            "class": "Compo",
+            "height": 113,
+            "width": 34,
+            "position": {
+                "column_min": 0,
+                "row_min": 10,
+                "column_max": 34,
+                "row_max": 123
+            },
+            "text": "the arrow pointing downward.",
+            "label": "icon"
+        },
+        {
+            "id": 87,
+            "class": "Compo",
+            "height": 37,
+            "width": 466,
+            "position": {
+                "column_min": 198,
+                "row_min": 0,
+                "column_max": 664,
+                "row_max": 37
+            },
+            "text": "A simple symbol or design element.",
+            "label": "icon"
+        },
+        {
+            "id": 88,
+            "class": "Compo",
+            "height": 113,
+            "width": 1062,
+            "position": {
+                "column_min": 857,
+                "row_min": 7,
+                "column_max": 1919,
+                "row_max": 120
+            },
+            "text": "a black dot",
+            "label": "icon"
+        },
+        {
+            "id": 89,
+            "class": "Compo",
+            "height": 198,
+            "width": 71,
+            "position": {
+                "column_min": 0,
+                "row_min": 39,
+                "column_max": 71,
+                "row_max": 237
+            },
+            "text": "A simple form or shape indicator.",
+            "label": "icon"
+        },
+        {
+            "id": 90,
+            "class": "Compo",
+            "height": 113,
+            "width": 1141,
+            "position": {
+                "column_min": 778,
+                "row_min": 12,
+                "column_max": 1919,
+                "row_max": 125
+            },
+            "text": "A simple line or symbol.",
+            "label": "icon"
+        },
+        {
+            "id": 91,
+            "class": "Compo",
+            "height": 32,
+            "width": 1083,
+            "position": {
+                "column_min": 836,
+                "row_min": 0,
+                "column_max": 1919,
+                "row_max": 32
+            },
+            "text": "unanswerable",
+            "label": "icon"
+        },
+        {
+            "id": 92,
+            "class": "Compo",
+            "height": 592,
+            "width": 452,
+            "position": {
+                "column_min": 167,
+                "row_min": 487,
+                "column_max": 619,
+                "row_max": 1079
+            },
+            "text": "The start and finish button.",
+            "label": "icon"
+        },
+        {
+            "id": 93,
+            "class": "Compo",
+            "height": 36,
+            "width": 413,
+            "position": {
+                "column_min": 172,
+                "row_min": 0,
+                "column_max": 585,
+                "row_max": 36
+            },
+            "text": "A close or cancel button.",
+            "label": "icon"
+        },
+        {
+            "id": 94,
+            "class": "Compo",
+            "height": 31,
+            "width": 1016,
+            "position": {
+                "column_min": 903,
+                "row_min": 0,
+                "column_max": 1919,
+                "row_max": 31
+            },
+            "text": "Close or cancel action.",
+            "label": "icon"
+        },
+        {
+            "id": 95,
+            "class": "Compo",
+            "height": 598,
+            "width": 1217,
+            "position": {
+                "column_min": 702,
+                "row_min": 481,
+                "column_max": 1919,
+                "row_max": 1079
+            },
+            "text": "A simple logo or icon.",
+            "label": "icon"
+        },
+        {
+            "id": 96,
+            "class": "Compo",
+            "height": 593,
+            "width": 710,
+            "position": {
+                "column_min": 306,
+                "row_min": 486,
+                "column_max": 1016,
+                "row_max": 1079
+            },
+            "text": "A blue icon with the letter \"O\" in white.",
+            "label": "icon"
+        },
+        {
+            "id": 97,
+            "class": "Compo",
+            "height": 597,
+            "width": 1166,
+            "position": {
+                "column_min": 753,
+                "row_min": 482,
+                "column_max": 1919,
+                "row_max": 1079
+            },
+            "text": "A blue check mark indicating a tick or arrow.",
+            "label": "icon"
+        },
+        {
+            "id": 98,
+            "class": "Compo",
+            "height": 33,
+            "width": 29,
+            "position": {
+                "column_min": 0,
+                "row_min": 0,
+                "column_max": 29,
+                "row_max": 33
+            },
+            "text": "A tick or mark that is not selected.",
+            "label": "icon"
+        },
+        {
+            "id": 99,
+            "class": "Compo",
+            "height": 592,
+            "width": 647,
+            "position": {
+                "column_min": 270,
+                "row_min": 487,
+                "column_max": 917,
+                "row_max": 1079
+            },
+            "text": "A yellow folder with a blue stripe.",
+            "label": "icon"
+        },
+        {
+            "id": 100,
+            "class": "Compo",
+            "height": 593,
+            "width": 777,
+            "position": {
+                "column_min": 338,
+                "row_min": 486,
+                "column_max": 1115,
+                "row_max": 1079
+            },
+            "text": "A file folder with a file running.",
+            "label": "icon"
+        },
+        {
+            "id": 101,
+            "class": "Compo",
+            "height": 241,
+            "width": 997,
+            "position": {
+                "column_min": 922,
+                "row_min": 95,
+                "column_max": 1919,
+                "row_max": 336
+            },
+            "text": "A low profile or low angle image.",
+            "label": "icon"
+        },
+        {
+            "id": 102,
+            "class": "Compo",
+            "height": 583,
+            "width": 1070,
+            "position": {
+                "column_min": 849,
+                "row_min": 496,
+                "column_max": 1919,
+                "row_max": 1079
+            },
+            "text": "A power button or charge indicator.",
+            "label": "icon"
+        },
+        {
+            "id": 103,
+            "class": "Compo",
+            "height": 189,
+            "width": 1142,
+            "position": {
+                "column_min": 777,
+                "row_min": 47,
+                "column_max": 1919,
+                "row_max": 236
+            },
+            "text": "A symbol or logo.",
+            "label": "icon"
+        },
+        {
+            "id": 104,
+            "class": "Compo",
+            "height": 189,
+            "width": 1119,
+            "position": {
+                "column_min": 800,
+                "row_min": 45,
+                "column_max": 1919,
+                "row_max": 234
+            },
+            "text": "A bird or bird symbol.",
+            "label": "icon"
+        },
+        {
+            "id": 105,
+            "class": "Compo",
+            "height": 583,
+            "width": 1084,
+            "position": {
+                "column_min": 835,
+                "row_min": 496,
+                "column_max": 1919,
+                "row_max": 1079
+            },
+            "text": "A simple line or rectangles.",
+            "label": "icon"
+        },
+        {
+            "id": 106,
+            "class": "Compo",
+            "height": 591,
+            "width": 576,
+            "position": {
+                "column_min": 239,
+                "row_min": 488,
+                "column_max": 815,
+                "row_max": 1079
+            },
+            "text": "A simple black rectangle.",
+            "label": "icon"
+        },
+        {
+            "id": 107,
+            "class": "Compo",
+            "height": 604,
+            "width": 1241,
+            "position": {
+                "column_min": 678,
+                "row_min": 475,
+                "column_max": 1919,
+                "row_max": 1079
+            },
+            "text": "A simple push pin or tail function.",
+            "label": "icon"
+        },
+        {
+            "id": 108,
+            "class": "Compo",
+            "height": 190,
+            "width": 991,
+            "position": {
+                "column_min": 928,
+                "row_min": 55,
+                "column_max": 1919,
+                "row_max": 245
+            },
+            "text": "A simple log log or log log.",
+            "label": "icon"
+        },
+        {
+            "id": 109,
+            "class": "Compo",
+            "height": 584,
+            "width": 1105,
+            "position": {
+                "column_min": 814,
+                "row_min": 495,
+                "column_max": 1919,
+                "row_max": 1079
+            },
+            "text": "Wi-Fi signal.",
+            "label": "icon"
+        },
+        {
+            "id": 110,
+            "class": "Compo",
+            "height": 593,
+            "width": 512,
+            "position": {
+                "column_min": 205,
+                "row_min": 486,
+                "column_max": 717,
+                "row_max": 1079
+            },
+            "text": "A magnifying glass symbol.",
+            "label": "icon"
+        },
+        {
+            "id": 111,
+            "class": "Compo",
+            "height": 608,
+            "width": 1010,
+            "position": {
+                "column_min": 909,
+                "row_min": 471,
+                "column_max": 1919,
+                "row_max": 1079
+            },
+            "text": "A low profile or profile indicator.",
+            "label": "icon"
+        },
+        {
+            "id": 112,
+            "class": "Compo",
+            "height": 605,
+            "width": 61,
+            "position": {
+                "column_min": 0,
+                "row_min": 474,
+                "column_max": 61,
+                "row_max": 1079
+            },
+            "text": "A symbol or logo representing the company Moebox.",
+            "label": "icon"
+        },
+        {
+            "id": 113,
+            "class": "Compo",
+            "height": 262,
+            "width": 993,
+            "position": {
+                "column_min": 926,
+                "row_min": 108,
+                "column_max": 1919,
+                "row_max": 370
+            },
+            "text": "A low angle or profile shot.",
+            "label": "icon"
+        },
+        {
+            "id": 114,
+            "class": "Compo",
+            "height": 113,
+            "width": 157,
+            "position": {
+                "column_min": 34,
+                "row_min": 9,
+                "column_max": 191,
+                "row_max": 122
+            },
+            "text": "A lock or lock function.",
+            "label": "icon"
+        },
+        {
+            "id": 115,
+            "class": "Compo",
+            "height": 362,
+            "width": 316,
+            "position": {
+                "column_min": 142,
+                "row_min": 164,
+                "column_max": 458,
+                "row_max": 526
+            },
+            "text": "A blurry image or profile.",
+            "label": "icon"
+        },
+        {
+            "id": 116,
+            "class": "Compo",
+            "height": 614,
+            "width": 321,
+            "position": {
+                "column_min": 134,
+                "row_min": 465,
+                "column_max": 455,
+                "row_max": 1079
+            },
+            "text": "unanswerable",
+            "label": "icon"
+        }
+    ]
+}
