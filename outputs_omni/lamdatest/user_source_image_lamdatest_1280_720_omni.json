@@ -1,0 +1,214 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Compo",
+            "height": 30,
+            "width": 43,
+            "position": {
+                "column_min": 520,
+                "row_min": 117,
+                "column_max": 563,
+                "row_max": 147
+            },
+            "text": "Log",
+            "label": "text"
+        },
+        {
+            "id": 1,
+            "class": "Compo",
+            "height": 30,
+            "width": 167,
+            "position": {
+                "column_min": 585,
+                "row_min": 117,
+                "column_max": 752,
+                "row_max": 147
+            },
+            "text": "toyour account",
+            "label": "text"
+        },
+        {
+            "id": 2,
+            "class": "Compo",
+            "height": 14,
+            "width": 89,
+            "position": {
+                "column_min": 427,
+                "row_min": 381,
+                "column_max": 516,
+                "row_max": 395
+            },
+            "text": "Email Address",
+            "label": "text"
+        },
+        {
+            "id": 3,
+            "class": "Compo",
+            "height": 14,
+            "width": 59,
+            "position": {
+                "column_min": 427,
+                "row_min": 460,
+                "column_max": 486,
+                "row_max": 474
+            },
+            "text": "Password",
+            "label": "text"
+        },
+        {
+            "id": 4,
+            "class": "Compo",
+            "height": 14,
+            "width": 63,
+            "position": {
+                "column_min": 438,
+                "row_min": 497,
+                "column_max": 501,
+                "row_max": 511
+            },
+            "text": "passwora",
+            "label": "text"
+        },
+        {
+            "id": 5,
+            "class": "Compo",
+            "height": 18,
+            "width": 101,
+            "position": {
+                "column_min": 745,
+                "row_min": 525,
+                "column_max": 846,
+                "row_max": 543
+            },
+            "text": "Forgot Password?",
+            "label": "text"
+        },
+        {
+            "id": 6,
+            "class": "Compo",
+            "height": 46,
+            "width": 428,
+            "position": {
+                "column_min": 419,
+                "row_min": 166,
+                "column_max": 847,
+                "row_max": 212
+            },
+            "text": "with Google Log ",
+            "label": "icon"
+        },
+        {
+            "id": 7,
+            "class": "Compo",
+            "height": 43,
+            "width": 428,
+            "position": {
+                "column_min": 419,
+                "row_min": 401,
+                "column_max": 847,
+                "row_max": 444
+            },
+            "text": "name company com ",
+            "label": "icon"
+        },
+        {
+            "id": 8,
+            "class": "Compo",
+            "height": 63,
+            "width": 152,
+            "position": {
+                "column_min": 22,
+                "row_min": 22,
+                "column_max": 174,
+                "row_max": 85
+            },
+            "text": "TestMu Formerly ( LAMBDATEST ",
+            "label": "icon"
+        },
+        {
+            "id": 9,
+            "class": "Compo",
+            "height": 45,
+            "width": 425,
+            "position": {
+                "column_min": 421,
+                "row_min": 215,
+                "column_max": 846,
+                "row_max": 260
+            },
+            "text": "Github Log ",
+            "label": "icon"
+        },
+        {
+            "id": 10,
+            "class": "Compo",
+            "height": 46,
+            "width": 430,
+            "position": {
+                "column_min": 417,
+                "row_min": 262,
+                "column_max": 847,
+                "row_max": 308
+            },
+            "text": "with SSO Log ",
+            "label": "icon"
+        },
+        {
+            "id": 11,
+            "class": "Compo",
+            "height": 43,
+            "width": 425,
+            "position": {
+                "column_min": 420,
+                "row_min": 556,
+                "column_max": 845,
+                "row_max": 599
+            },
+            "text": "Login ",
+            "label": "icon"
+        },
+        {
+            "id": 12,
+            "class": "Compo",
+            "height": 26,
+            "width": 22,
+            "position": {
+                "column_min": 817,
+                "row_min": 488,
+                "column_max": 839,
+                "row_max": 514
+            },
+            "text": "Armband",
+            "label": "icon"
+        },
+        {
+            "id": 13,
+            "class": "Compo",
+            "height": 16,
+            "width": 14,
+            "position": {
+                "column_min": 1264,
+                "row_min": 582,
+                "column_max": 1278,
+                "row_max": 598
+            },
+            "text": "M0,0L9,0 4.5,5z",
+            "label": "icon"
+        },
+        {
+            "id": 14,
+            "class": "Compo",
+            "height": 22,
+            "width": 14,
+            "position": {
+                "column_min": 1264,
+                "row_min": 5,
+                "column_max": 1278,
+                "row_max": 27
+            },
+            "text": "a file or file management function.",
+            "label": "icon"
+        }
+    ]
+}

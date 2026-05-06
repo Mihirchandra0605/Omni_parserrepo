@@ -1,0 +1,186 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Compo",
+            "height": 39,
+            "width": 73,
+            "position": {
+                "column_min": 708,
+                "row_min": 119,
+                "column_max": 781,
+                "row_max": 158
+            },
+            "text": "Sign",
+            "label": "text"
+        },
+        {
+            "id": 1,
+            "class": "Compo",
+            "height": 39,
+            "width": 399,
+            "position": {
+                "column_min": 812,
+                "row_min": 119,
+                "column_max": 1211,
+                "row_max": 158
+            },
+            "text": "to your account to continue",
+            "label": "text"
+        },
+        {
+            "id": 2,
+            "class": "Compo",
+            "height": 25,
+            "width": 68,
+            "position": {
+                "column_min": 599,
+                "row_min": 354,
+                "column_max": 667,
+                "row_max": 379
+            },
+            "text": "Email",
+            "label": "text"
+        },
+        {
+            "id": 3,
+            "class": "Compo",
+            "height": 26,
+            "width": 117,
+            "position": {
+                "column_min": 599,
+                "row_min": 481,
+                "column_max": 716,
+                "row_max": 507
+            },
+            "text": "Password",
+            "label": "text"
+        },
+        {
+            "id": 4,
+            "class": "Compo",
+            "height": 27,
+            "width": 174,
+            "position": {
+                "column_min": 634,
+                "row_min": 608,
+                "column_max": 808,
+                "row_max": 635
+            },
+            "text": "Remember me",
+            "label": "text"
+        },
+        {
+            "id": 5,
+            "class": "Compo",
+            "height": 37,
+            "width": 382,
+            "position": {
+                "column_min": 771,
+                "row_min": 809,
+                "column_max": 1153,
+                "row_max": 846
+            },
+            "text": "Don't have an account? Register",
+            "label": "text"
+        },
+        {
+            "id": 6,
+            "class": "Compo",
+            "height": 64,
+            "width": 728,
+            "position": {
+                "column_min": 596,
+                "row_min": 522,
+                "column_max": 1324,
+                "row_max": 586
+            },
+            "text": "Enter your password ",
+            "label": "icon"
+        },
+        {
+            "id": 7,
+            "class": "Compo",
+            "height": 62,
+            "width": 728,
+            "position": {
+                "column_min": 595,
+                "row_min": 666,
+                "column_max": 1323,
+                "row_max": 728
+            },
+            "text": "Login ",
+            "label": "icon"
+        },
+        {
+            "id": 8,
+            "class": "Compo",
+            "height": 68,
+            "width": 730,
+            "position": {
+                "column_min": 596,
+                "row_min": 392,
+                "column_max": 1326,
+                "row_max": 460
+            },
+            "text": "Enter your email ",
+            "label": "icon"
+        },
+        {
+            "id": 9,
+            "class": "Compo",
+            "height": 64,
+            "width": 722,
+            "position": {
+                "column_min": 599,
+                "row_min": 240,
+                "column_max": 1321,
+                "row_max": 304
+            },
+            "text": "Sign with Linkedln ",
+            "label": "icon"
+        },
+        {
+            "id": 10,
+            "class": "Compo",
+            "height": 35,
+            "width": 212,
+            "position": {
+                "column_min": 1108,
+                "row_min": 604,
+                "column_max": 1320,
+                "row_max": 639
+            },
+            "text": "Eorgotpasswordz ",
+            "label": "icon"
+        },
+        {
+            "id": 11,
+            "class": "Compo",
+            "height": 72,
+            "width": 435,
+            "position": {
+                "column_min": 742,
+                "row_min": 32,
+                "column_max": 1177,
+                "row_max": 104
+            },
+            "text": "Welcome back ",
+            "label": "icon"
+        },
+        {
+            "id": 12,
+            "class": "Compo",
+            "height": 30,
+            "width": 28,
+            "position": {
+                "column_min": 600,
+                "row_min": 608,
+                "column_max": 628,
+                "row_max": 638
+            },
+            "text": "Rectangle",
+            "label": "icon"
+        }
+    ]
+}

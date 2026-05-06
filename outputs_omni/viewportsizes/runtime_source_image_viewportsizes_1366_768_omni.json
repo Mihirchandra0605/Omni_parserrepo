@@ -1,0 +1,1264 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Compo",
+            "height": 14,
+            "width": 53,
+            "position": {
+                "column_min": 70,
+                "row_min": 15,
+                "column_max": 123,
+                "row_max": 29
+            },
+            "text": "Vievport",
+            "label": "text"
+        },
+        {
+            "id": 1,
+            "class": "Compo",
+            "height": 18,
+            "width": 161,
+            "position": {
+                "column_min": 107,
+                "row_min": 52,
+                "column_max": 268,
+                "row_max": 70
+            },
+            "text": "https:/ Iviewportsizes com",
+            "label": "text"
+        },
+        {
+            "id": 2,
+            "class": "Compo",
+            "height": 62,
+            "width": 338,
+            "position": {
+                "column_min": 489,
+                "row_min": 93,
+                "column_max": 827,
+                "row_max": 155
+            },
+            "text": "Viewport Sizes",
+            "label": "text"
+        },
+        {
+            "id": 3,
+            "class": "Compo",
+            "height": 16,
+            "width": 34,
+            "position": {
+                "column_min": 32,
+                "row_min": 186,
+                "column_max": 66,
+                "row_max": 202
+            },
+            "text": "Filter",
+            "label": "text"
+        },
+        {
+            "id": 4,
+            "class": "Compo",
+            "height": 17,
+            "width": 87,
+            "position": {
+                "column_min": 22,
+                "row_min": 250,
+                "column_max": 109,
+                "row_max": 267
+            },
+            "text": "Device Name",
+            "label": "text"
+        },
+        {
+            "id": 5,
+            "class": "Compo",
+            "height": 17,
+            "width": 59,
+            "position": {
+                "column_min": 424,
+                "row_min": 250,
+                "column_max": 483,
+                "row_max": 267
+            },
+            "text": "Platform",
+            "label": "text"
+        },
+        {
+            "id": 6,
+            "class": "Compo",
+            "height": 17,
+            "width": 71,
+            "position": {
+                "column_min": 667,
+                "row_min": 250,
+                "column_max": 738,
+                "row_max": 267
+            },
+            "text": "OS Version",
+            "label": "text"
+        },
+        {
+            "id": 7,
+            "class": "Compo",
+            "height": 17,
+            "width": 38,
+            "position": {
+                "column_min": 893,
+                "row_min": 250,
+                "column_max": 931,
+                "row_max": 267
+            },
+            "text": "Width",
+            "label": "text"
+        },
+        {
+            "id": 8,
+            "class": "Compo",
+            "height": 17,
+            "width": 109,
+            "position": {
+                "column_min": 1017,
+                "row_min": 250,
+                "column_max": 1126,
+                "row_max": 267
+            },
+            "text": "Landscape Width",
+            "label": "text"
+        },
+        {
+            "id": 9,
+            "class": "Compo",
+            "height": 17,
+            "width": 85,
+            "position": {
+                "column_min": 1192,
+                "row_min": 250,
+                "column_max": 1277,
+                "row_max": 267
+            },
+            "text": "Release Date",
+            "label": "text"
+        },
+        {
+            "id": 10,
+            "class": "Compo",
+            "height": 15,
+            "width": 50,
+            "position": {
+                "column_min": 427,
+                "row_min": 301,
+                "column_max": 477,
+                "row_max": 316
+            },
+            "text": "Android",
+            "label": "text"
+        },
+        {
+            "id": 11,
+            "class": "Compo",
+            "height": 15,
+            "width": 27,
+            "position": {
+                "column_min": 842,
+                "row_min": 301,
+                "column_max": 869,
+                "row_max": 316
+            },
+            "text": "768",
+            "label": "text"
+        },
+        {
+            "id": 12,
+            "class": "Compo",
+            "height": 15,
+            "width": 57,
+            "position": {
+                "column_min": 1190,
+                "row_min": 301,
+                "column_max": 1247,
+                "row_max": 316
+            },
+            "text": "2013-05",
+            "label": "text"
+        },
+        {
+            "id": 13,
+            "class": "Compo",
+            "height": 17,
+            "width": 50,
+            "position": {
+                "column_min": 427,
+                "row_min": 352,
+                "column_max": 477,
+                "row_max": 369
+            },
+            "text": "Android",
+            "label": "text"
+        },
+        {
+            "id": 14,
+            "class": "Compo",
+            "height": 17,
+            "width": 31,
+            "position": {
+                "column_min": 669,
+                "row_min": 352,
+                "column_max": 700,
+                "row_max": 369
+            },
+            "text": "4.0.3",
+            "label": "text"
+        },
+        {
+            "id": 15,
+            "class": "Compo",
+            "height": 17,
+            "width": 33,
+            "position": {
+                "column_min": 1017,
+                "row_min": 352,
+                "column_max": 1050,
+                "row_max": 369
+            },
+            "text": "1280",
+            "label": "text"
+        },
+        {
+            "id": 16,
+            "class": "Compo",
+            "height": 17,
+            "width": 55,
+            "position": {
+                "column_min": 1190,
+                "row_min": 352,
+                "column_max": 1245,
+                "row_max": 369
+            },
+            "text": "2011-04",
+            "label": "text"
+        },
+        {
+            "id": 17,
+            "class": "Compo",
+            "height": 17,
+            "width": 50,
+            "position": {
+                "column_min": 427,
+                "row_min": 402,
+                "column_max": 477,
+                "row_max": 419
+            },
+            "text": "Android",
+            "label": "text"
+        },
+        {
+            "id": 18,
+            "class": "Compo",
+            "height": 17,
+            "width": 57,
+            "position": {
+                "column_min": 1190,
+                "row_min": 402,
+                "column_max": 1247,
+                "row_max": 419
+            },
+            "text": "2011-05",
+            "label": "text"
+        },
+        {
+            "id": 19,
+            "class": "Compo",
+            "height": 16,
+            "width": 50,
+            "position": {
+                "column_min": 427,
+                "row_min": 455,
+                "column_max": 477,
+                "row_max": 471
+            },
+            "text": "Android",
+            "label": "text"
+        },
+        {
+            "id": 20,
+            "class": "Compo",
+            "height": 16,
+            "width": 31,
+            "position": {
+                "column_min": 669,
+                "row_min": 455,
+                "column_max": 700,
+                "row_max": 471
+            },
+            "text": "4.0.3",
+            "label": "text"
+        },
+        {
+            "id": 21,
+            "class": "Compo",
+            "height": 16,
+            "width": 27,
+            "position": {
+                "column_min": 842,
+                "row_min": 455,
+                "column_max": 869,
+                "row_max": 471
+            },
+            "text": "800",
+            "label": "text"
+        },
+        {
+            "id": 22,
+            "class": "Compo",
+            "height": 16,
+            "width": 33,
+            "position": {
+                "column_min": 1017,
+                "row_min": 455,
+                "column_max": 1050,
+                "row_max": 471
+            },
+            "text": "1280",
+            "label": "text"
+        },
+        {
+            "id": 23,
+            "class": "Compo",
+            "height": 17,
+            "width": 50,
+            "position": {
+                "column_min": 427,
+                "row_min": 504,
+                "column_max": 477,
+                "row_max": 521
+            },
+            "text": "Android",
+            "label": "text"
+        },
+        {
+            "id": 24,
+            "class": "Compo",
+            "height": 14,
+            "width": 31,
+            "position": {
+                "column_min": 669,
+                "row_min": 507,
+                "column_max": 700,
+                "row_max": 521
+            },
+            "text": "40.3",
+            "label": "text"
+        },
+        {
+            "id": 25,
+            "class": "Compo",
+            "height": 17,
+            "width": 55,
+            "position": {
+                "column_min": 1190,
+                "row_min": 504,
+                "column_max": 1245,
+                "row_max": 521
+            },
+            "text": "2011-04",
+            "label": "text"
+        },
+        {
+            "id": 26,
+            "class": "Compo",
+            "height": 16,
+            "width": 50,
+            "position": {
+                "column_min": 427,
+                "row_min": 557,
+                "column_max": 477,
+                "row_max": 573
+            },
+            "text": "Android",
+            "label": "text"
+        },
+        {
+            "id": 27,
+            "class": "Compo",
+            "height": 13,
+            "width": 27,
+            "position": {
+                "column_min": 842,
+                "row_min": 557,
+                "column_max": 869,
+                "row_max": 570
+            },
+            "text": "800",
+            "label": "text"
+        },
+        {
+            "id": 28,
+            "class": "Compo",
+            "height": 16,
+            "width": 33,
+            "position": {
+                "column_min": 1017,
+                "row_min": 557,
+                "column_max": 1050,
+                "row_max": 573
+            },
+            "text": "1280",
+            "label": "text"
+        },
+        {
+            "id": 29,
+            "class": "Compo",
+            "height": 16,
+            "width": 57,
+            "position": {
+                "column_min": 1190,
+                "row_min": 557,
+                "column_max": 1247,
+                "row_max": 573
+            },
+            "text": "2011-04",
+            "label": "text"
+        },
+        {
+            "id": 30,
+            "class": "Compo",
+            "height": 17,
+            "width": 50,
+            "position": {
+                "column_min": 427,
+                "row_min": 606,
+                "column_max": 477,
+                "row_max": 623
+            },
+            "text": "Android",
+            "label": "text"
+        },
+        {
+            "id": 31,
+            "class": "Compo",
+            "height": 17,
+            "width": 57,
+            "position": {
+                "column_min": 1190,
+                "row_min": 606,
+                "column_max": 1247,
+                "row_max": 623
+            },
+            "text": "2013-05",
+            "label": "text"
+        },
+        {
+            "id": 32,
+            "class": "Compo",
+            "height": 16,
+            "width": 50,
+            "position": {
+                "column_min": 427,
+                "row_min": 659,
+                "column_max": 477,
+                "row_max": 675
+            },
+            "text": "Android",
+            "label": "text"
+        },
+        {
+            "id": 33,
+            "class": "Compo",
+            "height": 16,
+            "width": 31,
+            "position": {
+                "column_min": 669,
+                "row_min": 659,
+                "column_max": 700,
+                "row_max": 675
+            },
+            "text": "4.0.3",
+            "label": "text"
+        },
+        {
+            "id": 34,
+            "class": "Compo",
+            "height": 16,
+            "width": 55,
+            "position": {
+                "column_min": 1190,
+                "row_min": 659,
+                "column_max": 1245,
+                "row_max": 675
+            },
+            "text": "2012-06",
+            "label": "text"
+        },
+        {
+            "id": 35,
+            "class": "Compo",
+            "height": 15,
+            "width": 66,
+            "position": {
+                "column_min": 1283,
+                "row_min": 744,
+                "column_max": 1349,
+                "row_max": 759
+            },
+            "text": "30-03-2026",
+            "label": "text"
+        },
+        {
+            "id": 36,
+            "class": "Compo",
+            "height": 34,
+            "width": 74,
+            "position": {
+                "column_min": 1288,
+                "row_min": 42,
+                "column_max": 1362,
+                "row_max": 76
+            },
+            "text": "Chat ",
+            "label": "icon"
+        },
+        {
+            "id": 37,
+            "class": "Compo",
+            "height": 18,
+            "width": 134,
+            "position": {
+                "column_min": 22,
+                "row_min": 351,
+                "column_max": 156,
+                "row_max": 369
+            },
+            "text": "Acer Iconia Tab A1OO ",
+            "label": "icon"
+        },
+        {
+            "id": 38,
+            "class": "Compo",
+            "height": 19,
+            "width": 111,
+            "position": {
+                "column_min": 22,
+                "row_min": 656,
+                "column_max": 133,
+                "row_max": 675
+            },
+            "text": "Ainol Novo ",
+            "label": "icon"
+        },
+        {
+            "id": 39,
+            "class": "Compo",
+            "height": 18,
+            "width": 132,
+            "position": {
+                "column_min": 22,
+                "row_min": 402,
+                "column_max": 154,
+                "row_max": 420
+            },
+            "text": "Acer Iconia A1OT ",
+            "label": "icon"
+        },
+        {
+            "id": 40,
+            "class": "Compo",
+            "height": 18,
+            "width": 145,
+            "position": {
+                "column_min": 22,
+                "row_min": 300,
+                "column_max": 167,
+                "row_max": 318
+            },
+            "text": "Acer Iconia A1-810 ",
+            "label": "icon"
+        },
+        {
+            "id": 41,
+            "class": "Compo",
+            "height": 18,
+            "width": 132,
+            "position": {
+                "column_min": 22,
+                "row_min": 555,
+                "column_max": 154,
+                "row_max": 573
+            },
+            "text": "Acer Iconia A50T ",
+            "label": "icon"
+        },
+        {
+            "id": 42,
+            "class": "Compo",
+            "height": 18,
+            "width": 134,
+            "position": {
+                "column_min": 22,
+                "row_min": 504,
+                "column_max": 156,
+                "row_max": 522
+            },
+            "text": "Acer Iconia ASOO ",
+            "label": "icon"
+        },
+        {
+            "id": 43,
+            "class": "Compo",
+            "height": 19,
+            "width": 98,
+            "position": {
+                "column_min": 21,
+                "row_min": 605,
+                "column_max": 119,
+                "row_max": 624
+            },
+            "text": "ACER Liquid ",
+            "label": "icon"
+        },
+        {
+            "id": 44,
+            "class": "Compo",
+            "height": 18,
+            "width": 134,
+            "position": {
+                "column_min": 22,
+                "row_min": 453,
+                "column_max": 156,
+                "row_max": 471
+            },
+            "text": "Acer Iconia A2OO ",
+            "label": "icon"
+        },
+        {
+            "id": 45,
+            "class": "Compo",
+            "height": 19,
+            "width": 52,
+            "position": {
+                "column_min": 1191,
+                "row_min": 452,
+                "column_max": 1243,
+                "row_max": 471
+            },
+            "text": "2012-01 ",
+            "label": "icon"
+        },
+        {
+            "id": 46,
+            "class": "Compo",
+            "height": 27,
+            "width": 42,
+            "position": {
+                "column_min": 1275,
+                "row_min": 6,
+                "column_max": 1317,
+                "row_max": 33
+            },
+            "text": "Delete",
+            "label": "icon"
+        },
+        {
+            "id": 47,
+            "class": "Compo",
+            "height": 38,
+            "width": 39,
+            "position": {
+                "column_min": 0,
+                "row_min": 2,
+                "column_max": 39,
+                "row_max": 40
+            },
+            "text": "Expand to the next item",
+            "label": "icon"
+        },
+        {
+            "id": 48,
+            "class": "Compo",
+            "height": 41,
+            "width": 42,
+            "position": {
+                "column_min": 703,
+                "row_min": 725,
+                "column_max": 745,
+                "row_max": 766
+            },
+            "text": "Microsoft Edge browser.",
+            "label": "icon"
+        },
+        {
+            "id": 49,
+            "class": "Compo",
+            "height": 42,
+            "width": 37,
+            "position": {
+                "column_min": 1081,
+                "row_min": 723,
+                "column_max": 1118,
+                "row_max": 765
+            },
+            "text": "A voice recording or voice recording function.",
+            "label": "icon"
+        },
+        {
+            "id": 50,
+            "class": "Compo",
+            "height": 38,
+            "width": 39,
+            "position": {
+                "column_min": 658,
+                "row_min": 727,
+                "column_max": 697,
+                "row_max": 765
+            },
+            "text": "Google Chrome",
+            "label": "icon"
+        },
+        {
+            "id": 51,
+            "class": "Compo",
+            "height": 35,
+            "width": 28,
+            "position": {
+                "column_min": 1256,
+                "row_min": 41,
+                "column_max": 1284,
+                "row_max": 76
+            },
+            "text": "More options",
+            "label": "icon"
+        },
+        {
+            "id": 52,
+            "class": "Compo",
+            "height": 36,
+            "width": 33,
+            "position": {
+                "column_min": 906,
+                "row_min": 731,
+                "column_max": 939,
+                "row_max": 767
+            },
+            "text": "Settings",
+            "label": "icon"
+        },
+        {
+            "id": 53,
+            "class": "Compo",
+            "height": 39,
+            "width": 42,
+            "position": {
+                "column_min": 613,
+                "row_min": 726,
+                "column_max": 655,
+                "row_max": 765
+            },
+            "text": "1 person",
+            "label": "icon"
+        },
+        {
+            "id": 54,
+            "class": "Compo",
+            "height": 31,
+            "width": 39,
+            "position": {
+                "column_min": 1323,
+                "row_min": 4,
+                "column_max": 1362,
+                "row_max": 35
+            },
+            "text": "Close",
+            "label": "icon"
+        },
+        {
+            "id": 55,
+            "class": "Compo",
+            "height": 31,
+            "width": 24,
+            "position": {
+                "column_min": 252,
+                "row_min": 4,
+                "column_max": 276,
+                "row_max": 35
+            },
+            "text": "Close",
+            "label": "icon"
+        },
+        {
+            "id": 56,
+            "class": "Compo",
+            "height": 37,
+            "width": 39,
+            "position": {
+                "column_min": 807,
+                "row_min": 730,
+                "column_max": 846,
+                "row_max": 767
+            },
+            "text": "Open",
+            "label": "icon"
+        },
+        {
+            "id": 57,
+            "class": "Compo",
+            "height": 31,
+            "width": 29,
+            "position": {
+                "column_min": 41,
+                "row_min": 44,
+                "column_max": 70,
+                "row_max": 75
+            },
+            "text": "Refresh",
+            "label": "icon"
+        },
+        {
+            "id": 58,
+            "class": "Compo",
+            "height": 35,
+            "width": 39,
+            "position": {
+                "column_min": 524,
+                "row_min": 731,
+                "column_max": 563,
+                "row_max": 766
+            },
+            "text": "Outlook",
+            "label": "icon"
+        },
+        {
+            "id": 59,
+            "class": "Compo",
+            "height": 38,
+            "width": 46,
+            "position": {
+                "column_min": 855,
+                "row_min": 730,
+                "column_max": 901,
+                "row_max": 768
+            },
+            "text": "Microsoft 365",
+            "label": "icon"
+        },
+        {
+            "id": 60,
+            "class": "Compo",
+            "height": 30,
+            "width": 31,
+            "position": {
+                "column_min": 3,
+                "row_min": 44,
+                "column_max": 34,
+                "row_max": 74
+            },
+            "text": "Back",
+            "label": "icon"
+        },
+        {
+            "id": 61,
+            "class": "Compo",
+            "height": 39,
+            "width": 40,
+            "position": {
+                "column_min": 754,
+                "row_min": 728,
+                "column_max": 794,
+                "row_max": 767
+            },
+            "text": "Airplane",
+            "label": "icon"
+        },
+        {
+            "id": 62,
+            "class": "Compo",
+            "height": 30,
+            "width": 27,
+            "position": {
+                "column_min": 1150,
+                "row_min": 44,
+                "column_max": 1177,
+                "row_max": 74
+            },
+            "text": "Four-point star or bookmarking.",
+            "label": "icon"
+        },
+        {
+            "id": 63,
+            "class": "Compo",
+            "height": 34,
+            "width": 36,
+            "position": {
+                "column_min": 483,
+                "row_min": 732,
+                "column_max": 519,
+                "row_max": 766
+            },
+            "text": "Gallery",
+            "label": "icon"
+        },
+        {
+            "id": 64,
+            "class": "Compo",
+            "height": 30,
+            "width": 23,
+            "position": {
+                "column_min": 1123,
+                "row_min": 43,
+                "column_max": 1146,
+                "row_max": 73
+            },
+            "text": "Text alignment.",
+            "label": "icon"
+        },
+        {
+            "id": 65,
+            "class": "Compo",
+            "height": 34,
+            "width": 35,
+            "position": {
+                "column_min": 570,
+                "row_min": 730,
+                "column_max": 605,
+                "row_max": 764
+            },
+            "text": "Properties",
+            "label": "icon"
+        },
+        {
+            "id": 66,
+            "class": "Compo",
+            "height": 28,
+            "width": 23,
+            "position": {
+                "column_min": 287,
+                "row_min": 6,
+                "column_max": 310,
+                "row_max": 34
+            },
+            "text": "Add",
+            "label": "icon"
+        },
+        {
+            "id": 67,
+            "class": "Compo",
+            "height": 39,
+            "width": 28,
+            "position": {
+                "column_min": 1118,
+                "row_min": 725,
+                "column_max": 1146,
+                "row_max": 764
+            },
+            "text": "Navigation",
+            "label": "icon"
+        },
+        {
+            "id": 68,
+            "class": "Compo",
+            "height": 36,
+            "width": 35,
+            "position": {
+                "column_min": 1218,
+                "row_min": 41,
+                "column_max": 1253,
+                "row_max": 77
+            },
+            "text": "User profile",
+            "label": "icon"
+        },
+        {
+            "id": 69,
+            "class": "Compo",
+            "height": 34,
+            "width": 31,
+            "position": {
+                "column_min": 1153,
+                "row_min": 729,
+                "column_max": 1184,
+                "row_max": 763
+            },
+            "text": "ENQ In",
+            "label": "icon"
+        },
+        {
+            "id": 70,
+            "class": "Compo",
+            "height": 33,
+            "width": 36,
+            "position": {
+                "column_min": 437,
+                "row_min": 729,
+                "column_max": 473,
+                "row_max": 762
+            },
+            "text": "Copy",
+            "label": "icon"
+        },
+        {
+            "id": 71,
+            "class": "Compo",
+            "height": 19,
+            "width": 17,
+            "position": {
+                "column_min": 1347,
+                "row_min": 80,
+                "column_max": 1364,
+                "row_max": 99
+            },
+            "text": "Up or down.",
+            "label": "icon"
+        },
+        {
+            "id": 72,
+            "class": "Compo",
+            "height": 29,
+            "width": 24,
+            "position": {
+                "column_min": 1195,
+                "row_min": 732,
+                "column_max": 1219,
+                "row_max": 761
+            },
+            "text": "WiFi",
+            "label": "icon"
+        },
+        {
+            "id": 73,
+            "class": "Compo",
+            "height": 25,
+            "width": 28,
+            "position": {
+                "column_min": 1244,
+                "row_min": 733,
+                "column_max": 1272,
+                "row_max": 758
+            },
+            "text": "Save",
+            "label": "icon"
+        },
+        {
+            "id": 74,
+            "class": "Compo",
+            "height": 39,
+            "width": 29,
+            "position": {
+                "column_min": 1052,
+                "row_min": 725,
+                "column_max": 1081,
+                "row_max": 764
+            },
+            "text": "Link",
+            "label": "icon"
+        },
+        {
+            "id": 75,
+            "class": "Compo",
+            "height": 35,
+            "width": 33,
+            "position": {
+                "column_min": 395,
+                "row_min": 727,
+                "column_max": 428,
+                "row_max": 762
+            },
+            "text": "Find",
+            "label": "icon"
+        },
+        {
+            "id": 76,
+            "class": "Compo",
+            "height": 27,
+            "width": 41,
+            "position": {
+                "column_min": 1229,
+                "row_min": 5,
+                "column_max": 1270,
+                "row_max": 32
+            },
+            "text": "Minimize",
+            "label": "icon"
+        },
+        {
+            "id": 77,
+            "class": "Compo",
+            "height": 26,
+            "width": 22,
+            "position": {
+                "column_min": 1220,
+                "row_min": 733,
+                "column_max": 1242,
+                "row_max": 759
+            },
+            "text": "Sound",
+            "label": "icon"
+        },
+        {
+            "id": 78,
+            "class": "Compo",
+            "height": 34,
+            "width": 33,
+            "position": {
+                "column_min": 350,
+                "row_min": 727,
+                "column_max": 383,
+                "row_max": 761
+            },
+            "text": "Windows",
+            "label": "icon"
+        },
+        {
+            "id": 79,
+            "class": "Compo",
+            "height": 46,
+            "width": 40,
+            "position": {
+                "column_min": 12,
+                "row_min": 721,
+                "column_max": 52,
+                "row_max": 767
+            },
+            "text": "Notifications",
+            "label": "icon"
+        },
+        {
+            "id": 80,
+            "class": "Compo",
+            "height": 34,
+            "width": 28,
+            "position": {
+                "column_min": 1185,
+                "row_min": 42,
+                "column_max": 1213,
+                "row_max": 76
+            },
+            "text": "Promote",
+            "label": "icon"
+        },
+        {
+            "id": 81,
+            "class": "Compo",
+            "height": 28,
+            "width": 26,
+            "position": {
+                "column_min": 1022,
+                "row_min": 732,
+                "column_max": 1048,
+                "row_max": 760
+            },
+            "text": "Go to the next item",
+            "label": "icon"
+        },
+        {
+            "id": 82,
+            "class": "Compo",
+            "height": 34,
+            "width": 31,
+            "position": {
+                "column_min": 830,
+                "row_min": 108,
+                "column_max": 861,
+                "row_max": 142
+            },
+            "text": "Help",
+            "label": "icon"
+        },
+        {
+            "id": 83,
+            "class": "Compo",
+            "height": 19,
+            "width": 18,
+            "position": {
+                "column_min": 1345,
+                "row_min": 699,
+                "column_max": 1363,
+                "row_max": 718
+            },
+            "text": "M0,0L9,5 4.5,5z",
+            "label": "icon"
+        },
+        {
+            "id": 84,
+            "class": "Compo",
+            "height": 19,
+            "width": 32,
+            "position": {
+                "column_min": 667,
+                "row_min": 299,
+                "column_max": 699,
+                "row_max": 318
+            },
+            "text": "4.22.",
+            "label": "icon"
+        },
+        {
+            "id": 85,
+            "class": "Compo",
+            "height": 39,
+            "width": 1024,
+            "position": {
+                "column_min": 119,
+                "row_min": 177,
+                "column_max": 1143,
+                "row_max": 216
+            },
+            "text": "Mentions",
+            "label": "icon"
+        },
+        {
+            "id": 86,
+            "class": "Compo",
+            "height": 19,
+            "width": 21,
+            "position": {
+                "column_min": 667,
+                "row_min": 555,
+                "column_max": 688,
+                "row_max": 574
+            },
+            "text": "3.2",
+            "label": "icon"
+        },
+        {
+            "id": 87,
+            "class": "Compo",
+            "height": 19,
+            "width": 31,
+            "position": {
+                "column_min": 667,
+                "row_min": 401,
+                "column_max": 698,
+                "row_max": 420
+            },
+            "text": "3.2.1",
+            "label": "icon"
+        },
+        {
+            "id": 88,
+            "class": "Compo",
+            "height": 18,
+            "width": 31,
+            "position": {
+                "column_min": 667,
+                "row_min": 606,
+                "column_max": 698,
+                "row_max": 624
+            },
+            "text": "4.2.1",
+            "label": "icon"
+        },
+        {
+            "id": 89,
+            "class": "Compo",
+            "height": 104,
+            "width": 10,
+            "position": {
+                "column_min": 1356,
+                "row_min": 102,
+                "column_max": 1366,
+                "row_max": 206
+            },
+            "text": "a button to close or close a window.",
+            "label": "icon"
+        }
+    ]
+}

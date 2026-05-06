@@ -1,0 +1,200 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Compo",
+            "height": 51,
+            "width": 355,
+            "position": {
+                "column_min": 775,
+                "row_min": 169,
+                "column_max": 1130,
+                "row_max": 220
+            },
+            "text": "Log in to your account",
+            "label": "text"
+        },
+        {
+            "id": 1,
+            "class": "Compo",
+            "height": 24,
+            "width": 135,
+            "position": {
+                "column_min": 638,
+                "row_min": 564,
+                "column_max": 773,
+                "row_max": 588
+            },
+            "text": "Email Address",
+            "label": "text"
+        },
+        {
+            "id": 2,
+            "class": "Compo",
+            "height": 24,
+            "width": 92,
+            "position": {
+                "column_min": 638,
+                "row_min": 683,
+                "column_max": 730,
+                "row_max": 707
+            },
+            "text": "Password",
+            "label": "text"
+        },
+        {
+            "id": 3,
+            "class": "Compo",
+            "height": 28,
+            "width": 96,
+            "position": {
+                "column_min": 654,
+                "row_min": 735,
+                "column_max": 750,
+                "row_max": 763
+            },
+            "text": "password",
+            "label": "text"
+        },
+        {
+            "id": 4,
+            "class": "Compo",
+            "height": 24,
+            "width": 150,
+            "position": {
+                "column_min": 1118,
+                "row_min": 783,
+                "column_max": 1268,
+                "row_max": 807
+            },
+            "text": "Forgot Password?",
+            "label": "text"
+        },
+        {
+            "id": 5,
+            "class": "Compo",
+            "height": 68,
+            "width": 642,
+            "position": {
+                "column_min": 628,
+                "row_min": 248,
+                "column_max": 1270,
+                "row_max": 316
+            },
+            "text": "with Google Log ",
+            "label": "icon"
+        },
+        {
+            "id": 6,
+            "class": "Compo",
+            "height": 69,
+            "width": 642,
+            "position": {
+                "column_min": 628,
+                "row_min": 596,
+                "column_max": 1270,
+                "row_max": 665
+            },
+            "text": "name company com ",
+            "label": "icon"
+        },
+        {
+            "id": 7,
+            "class": "Compo",
+            "height": 93,
+            "width": 228,
+            "position": {
+                "column_min": 34,
+                "row_min": 32,
+                "column_max": 262,
+                "row_max": 125
+            },
+            "text": "TestMu Al Formerly LAMBDATEST ",
+            "label": "icon"
+        },
+        {
+            "id": 8,
+            "class": "Compo",
+            "height": 64,
+            "width": 640,
+            "position": {
+                "column_min": 629,
+                "row_min": 830,
+                "column_max": 1269,
+                "row_max": 894
+            },
+            "text": "Login ",
+            "label": "icon"
+        },
+        {
+            "id": 9,
+            "class": "Compo",
+            "height": 67,
+            "width": 638,
+            "position": {
+                "column_min": 632,
+                "row_min": 320,
+                "column_max": 1270,
+                "row_max": 387
+            },
+            "text": "in with Github Log ",
+            "label": "icon"
+        },
+        {
+            "id": 10,
+            "class": "Compo",
+            "height": 68,
+            "width": 643,
+            "position": {
+                "column_min": 627,
+                "row_min": 390,
+                "column_max": 1270,
+                "row_max": 458
+            },
+            "text": "in with SSO Log ",
+            "label": "icon"
+        },
+        {
+            "id": 11,
+            "class": "Compo",
+            "height": 39,
+            "width": 34,
+            "position": {
+                "column_min": 1226,
+                "row_min": 729,
+                "column_max": 1260,
+                "row_max": 768
+            },
+            "text": "Uncomm&ent",
+            "label": "icon"
+        },
+        {
+            "id": 12,
+            "class": "Compo",
+            "height": 31,
+            "width": 20,
+            "position": {
+                "column_min": 1896,
+                "row_min": 6,
+                "column_max": 1916,
+                "row_max": 37
+            },
+            "text": "a folder.",
+            "label": "icon"
+        },
+        {
+            "id": 13,
+            "class": "Compo",
+            "height": 22,
+            "width": 20,
+            "position": {
+                "column_min": 1897,
+                "row_min": 872,
+                "column_max": 1917,
+                "row_max": 894
+            },
+            "text": "M0,0L9,0 4.5,5z",
+            "label": "icon"
+        }
+    ]
+}

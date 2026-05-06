@@ -1,0 +1,998 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Compo",
+            "height": 14,
+            "width": 152,
+            "position": {
+                "column_min": 105,
+                "row_min": 15,
+                "column_max": 257,
+                "row_max": 29
+            },
+            "text": "Labs Dccumentation; Develd",
+            "label": "text"
+        },
+        {
+            "id": 1,
+            "class": "Compo",
+            "height": 16,
+            "width": 171,
+            "position": {
+                "column_min": 106,
+                "row_min": 52,
+                "column_max": 277,
+                "row_max": 68
+            },
+            "text": "https:/ /docs saucelabs com",
+            "label": "text"
+        },
+        {
+            "id": 2,
+            "class": "Compo",
+            "height": 62,
+            "width": 364,
+            "position": {
+                "column_min": 95,
+                "row_min": 248,
+                "column_max": 459,
+                "row_max": 310
+            },
+            "text": "Sauce Labs",
+            "label": "text"
+        },
+        {
+            "id": 3,
+            "class": "Compo",
+            "height": 66,
+            "width": 493,
+            "position": {
+                "column_min": 96,
+                "row_min": 327,
+                "column_max": 589,
+                "row_max": 393
+            },
+            "text": "Documentation",
+            "label": "text"
+        },
+        {
+            "id": 4,
+            "class": "Compo",
+            "height": 47,
+            "width": 322,
+            "position": {
+                "column_min": 93,
+                "row_min": 418,
+                "column_max": 415,
+                "row_max": 465
+            },
+            "text": "Test all the things:",
+            "label": "text"
+        },
+        {
+            "id": 5,
+            "class": "Compo",
+            "height": 16,
+            "width": 57,
+            "position": {
+                "column_min": 135,
+                "row_min": 542,
+                "column_max": 192,
+                "row_max": 558
+            },
+            "text": "Search",
+            "label": "text"
+        },
+        {
+            "id": 6,
+            "class": "Compo",
+            "height": 13,
+            "width": 172,
+            "position": {
+                "column_min": 96,
+                "row_min": 589,
+                "column_max": 268,
+                "row_max": 602
+            },
+            "text": "Popular Searches:  saucectl",
+            "label": "text"
+        },
+        {
+            "id": 7,
+            "class": "Compo",
+            "height": 13,
+            "width": 60,
+            "position": {
+                "column_min": 379,
+                "row_min": 589,
+                "column_max": 439,
+                "row_max": 602
+            },
+            "text": "Selenium",
+            "label": "text"
+        },
+        {
+            "id": 8,
+            "class": "Compo",
+            "height": 13,
+            "width": 31,
+            "position": {
+                "column_min": 459,
+                "row_min": 589,
+                "column_max": 490,
+                "row_max": 602
+            },
+            "text": "REST",
+            "label": "text"
+        },
+        {
+            "id": 9,
+            "class": "Compo",
+            "height": 16,
+            "width": 82,
+            "position": {
+                "column_min": 525,
+                "row_min": 586,
+                "column_max": 607,
+                "row_max": 602
+            },
+            "text": "Sauce Visual",
+            "label": "text"
+        },
+        {
+            "id": 10,
+            "class": "Compo",
+            "height": 20,
+            "width": 96,
+            "position": {
+                "column_min": 1089,
+                "row_min": 618,
+                "column_max": 1185,
+                "row_max": 638
+            },
+            "text": "Need help?",
+            "label": "text"
+        },
+        {
+            "id": 11,
+            "class": "Compo",
+            "height": 15,
+            "width": 67,
+            "position": {
+                "column_min": 1196,
+                "row_min": 696,
+                "column_max": 1263,
+                "row_max": 711
+            },
+            "text": "30-03-2026",
+            "label": "text"
+        },
+        {
+            "id": 12,
+            "class": "Compo",
+            "height": 41,
+            "width": 170,
+            "position": {
+                "column_min": 1076,
+                "row_min": 89,
+                "column_max": 1246,
+                "row_max": 130
+            },
+            "text": "Search ",
+            "label": "icon"
+        },
+        {
+            "id": 13,
+            "class": "Compo",
+            "height": 46,
+            "width": 173,
+            "position": {
+                "column_min": 12,
+                "row_min": 86,
+                "column_max": 185,
+                "row_max": 132
+            },
+            "text": "SauceLabs ",
+            "label": "icon"
+        },
+        {
+            "id": 14,
+            "class": "Compo",
+            "height": 32,
+            "width": 149,
+            "position": {
+                "column_min": 94,
+                "row_min": 638,
+                "column_max": 243,
+                "row_max": 670
+            },
+            "text": "Get Started ",
+            "label": "icon"
+        },
+        {
+            "id": 15,
+            "class": "Compo",
+            "height": 35,
+            "width": 137,
+            "position": {
+                "column_min": 442,
+                "row_min": 638,
+                "column_max": 579,
+                "row_max": 673
+            },
+            "text": "Sauce CLI ",
+            "label": "icon"
+        },
+        {
+            "id": 16,
+            "class": "Compo",
+            "height": 34,
+            "width": 175,
+            "position": {
+                "column_min": 255,
+                "row_min": 638,
+                "column_max": 430,
+                "row_max": 672
+            },
+            "text": "Sauce REST ",
+            "label": "icon"
+        },
+        {
+            "id": 17,
+            "class": "Compo",
+            "height": 26,
+            "width": 46,
+            "position": {
+                "column_min": 455,
+                "row_min": 95,
+                "column_max": 501,
+                "row_max": 121
+            },
+            "text": "Visual ",
+            "label": "icon"
+        },
+        {
+            "id": 18,
+            "class": "Compo",
+            "height": 27,
+            "width": 26,
+            "position": {
+                "column_min": 409,
+                "row_min": 94,
+                "column_max": 435,
+                "row_max": 121
+            },
+            "text": "CLI ",
+            "label": "icon"
+        },
+        {
+            "id": 19,
+            "class": "Compo",
+            "height": 26,
+            "width": 41,
+            "position": {
+                "column_min": 213,
+                "row_min": 95,
+                "column_max": 254,
+                "row_max": 121
+            },
+            "text": "Docs ",
+            "label": "icon"
+        },
+        {
+            "id": 20,
+            "class": "Compo",
+            "height": 27,
+            "width": 69,
+            "position": {
+                "column_min": 273,
+                "row_min": 94,
+                "column_max": 342,
+                "row_max": 121
+            },
+            "text": "Sauce AI ",
+            "label": "icon"
+        },
+        {
+            "id": 21,
+            "class": "Compo",
+            "height": 25,
+            "width": 171,
+            "position": {
+                "column_min": 790,
+                "row_min": 95,
+                "column_max": 961,
+                "row_max": 120
+            },
+            "text": "Real Device Access API ",
+            "label": "icon"
+        },
+        {
+            "id": 22,
+            "class": "Compo",
+            "height": 40,
+            "width": 116,
+            "position": {
+                "column_min": 658,
+                "row_min": 88,
+                "column_max": 774,
+                "row_max": 128
+            },
+            "text": "Error Reporting ",
+            "label": "icon"
+        },
+        {
+            "id": 23,
+            "class": "Compo",
+            "height": 19,
+            "width": 94,
+            "position": {
+                "column_min": 277,
+                "row_min": 584,
+                "column_max": 371,
+                "row_max": 603
+            },
+            "text": "Sauce Connect ",
+            "label": "icon"
+        },
+        {
+            "id": 24,
+            "class": "Compo",
+            "height": 26,
+            "width": 120,
+            "position": {
+                "column_min": 521,
+                "row_min": 95,
+                "column_max": 641,
+                "row_max": 121
+            },
+            "text": "App Distribution ",
+            "label": "icon"
+        },
+        {
+            "id": 25,
+            "class": "Compo",
+            "height": 35,
+            "width": 75,
+            "position": {
+                "column_min": 1201,
+                "row_min": 41,
+                "column_max": 1276,
+                "row_max": 76
+            },
+            "text": "Chat application.",
+            "label": "icon"
+        },
+        {
+            "id": 26,
+            "class": "Compo",
+            "height": 30,
+            "width": 28,
+            "position": {
+                "column_min": 41,
+                "row_min": 45,
+                "column_max": 69,
+                "row_max": 75
+            },
+            "text": "Refresh",
+            "label": "icon"
+        },
+        {
+            "id": 27,
+            "class": "Compo",
+            "height": 44,
+            "width": 43,
+            "position": {
+                "column_min": 528,
+                "row_min": 676,
+                "column_max": 571,
+                "row_max": 720
+            },
+            "text": "Contact",
+            "label": "icon"
+        },
+        {
+            "id": 28,
+            "class": "Compo",
+            "height": 30,
+            "width": 27,
+            "position": {
+                "column_min": 6,
+                "row_min": 45,
+                "column_max": 33,
+                "row_max": 75
+            },
+            "text": "Back",
+            "label": "icon"
+        },
+        {
+            "id": 29,
+            "class": "Compo",
+            "height": 44,
+            "width": 41,
+            "position": {
+                "column_min": 573,
+                "row_min": 676,
+                "column_max": 614,
+                "row_max": 720
+            },
+            "text": "Google Chrome",
+            "label": "icon"
+        },
+        {
+            "id": 30,
+            "class": "Compo",
+            "height": 29,
+            "width": 25,
+            "position": {
+                "column_min": 1036,
+                "row_min": 45,
+                "column_max": 1061,
+                "row_max": 74
+            },
+            "text": "Superscript",
+            "label": "icon"
+        },
+        {
+            "id": 31,
+            "class": "Compo",
+            "height": 45,
+            "width": 43,
+            "position": {
+                "column_min": 622,
+                "row_min": 675,
+                "column_max": 665,
+                "row_max": 720
+            },
+            "text": "Microsoft Edge browser.",
+            "label": "icon"
+        },
+        {
+            "id": 32,
+            "class": "Compo",
+            "height": 36,
+            "width": 30,
+            "position": {
+                "column_min": 1169,
+                "row_min": 40,
+                "column_max": 1199,
+                "row_max": 76
+            },
+            "text": "More options",
+            "label": "icon"
+        },
+        {
+            "id": 33,
+            "class": "Compo",
+            "height": 38,
+            "width": 39,
+            "position": {
+                "column_min": 393,
+                "row_min": 682,
+                "column_max": 432,
+                "row_max": 720
+            },
+            "text": "Gallery",
+            "label": "icon"
+        },
+        {
+            "id": 34,
+            "class": "Compo",
+            "height": 38,
+            "width": 36,
+            "position": {
+                "column_min": 439,
+                "row_min": 682,
+                "column_max": 475,
+                "row_max": 720
+            },
+            "text": "Outlook",
+            "label": "icon"
+        },
+        {
+            "id": 35,
+            "class": "Compo",
+            "height": 42,
+            "width": 36,
+            "position": {
+                "column_min": 996,
+                "row_min": 675,
+                "column_max": 1032,
+                "row_max": 717
+            },
+            "text": "A voice recording or voice recording function.",
+            "label": "icon"
+        },
+        {
+            "id": 36,
+            "class": "Compo",
+            "height": 35,
+            "width": 34,
+            "position": {
+                "column_min": 1132,
+                "row_min": 41,
+                "column_max": 1166,
+                "row_max": 76
+            },
+            "text": "User profile",
+            "label": "icon"
+        },
+        {
+            "id": 37,
+            "class": "Compo",
+            "height": 29,
+            "width": 38,
+            "position": {
+                "column_min": 1192,
+                "row_min": 5,
+                "column_max": 1230,
+                "row_max": 34
+            },
+            "text": "Delete",
+            "label": "icon"
+        },
+        {
+            "id": 38,
+            "class": "Compo",
+            "height": 34,
+            "width": 30,
+            "position": {
+                "column_min": 1098,
+                "row_min": 42,
+                "column_max": 1128,
+                "row_max": 76
+            },
+            "text": "Promote",
+            "label": "icon"
+        },
+        {
+            "id": 39,
+            "class": "Compo",
+            "height": 39,
+            "width": 36,
+            "position": {
+                "column_min": 484,
+                "row_min": 681,
+                "column_max": 520,
+                "row_max": 720
+            },
+            "text": "Lively",
+            "label": "icon"
+        },
+        {
+            "id": 40,
+            "class": "Compo",
+            "height": 37,
+            "width": 35,
+            "position": {
+                "column_min": 824,
+                "row_min": 682,
+                "column_max": 859,
+                "row_max": 719
+            },
+            "text": "Settings",
+            "label": "icon"
+        },
+        {
+            "id": 41,
+            "class": "Compo",
+            "height": 30,
+            "width": 26,
+            "position": {
+                "column_min": 1064,
+                "row_min": 45,
+                "column_max": 1090,
+                "row_max": 75
+            },
+            "text": "Four-point star",
+            "label": "icon"
+        },
+        {
+            "id": 42,
+            "class": "Compo",
+            "height": 37,
+            "width": 37,
+            "position": {
+                "column_min": 262,
+                "row_min": 680,
+                "column_max": 299,
+                "row_max": 717
+            },
+            "text": "Windows",
+            "label": "icon"
+        },
+        {
+            "id": 43,
+            "class": "Compo",
+            "height": 42,
+            "width": 43,
+            "position": {
+                "column_min": 675,
+                "row_min": 678,
+                "column_max": 718,
+                "row_max": 720
+            },
+            "text": "Mail",
+            "label": "icon"
+        },
+        {
+            "id": 44,
+            "class": "Compo",
+            "height": 37,
+            "width": 37,
+            "position": {
+                "column_min": 349,
+                "row_min": 681,
+                "column_max": 386,
+                "row_max": 718
+            },
+            "text": "Copy",
+            "label": "icon"
+        },
+        {
+            "id": 45,
+            "class": "Compo",
+            "height": 38,
+            "width": 41,
+            "position": {
+                "column_min": 776,
+                "row_min": 682,
+                "column_max": 817,
+                "row_max": 720
+            },
+            "text": "Microsoft 365",
+            "label": "icon"
+        },
+        {
+            "id": 46,
+            "class": "Compo",
+            "height": 25,
+            "width": 24,
+            "position": {
+                "column_min": 287,
+                "row_min": 8,
+                "column_max": 311,
+                "row_max": 33
+            },
+            "text": "Add",
+            "label": "icon"
+        },
+        {
+            "id": 47,
+            "class": "Compo",
+            "height": 34,
+            "width": 28,
+            "position": {
+                "column_min": 1032,
+                "row_min": 679,
+                "column_max": 1060,
+                "row_max": 713
+            },
+            "text": "Navigation",
+            "label": "icon"
+        },
+        {
+            "id": 48,
+            "class": "Compo",
+            "height": 34,
+            "width": 33,
+            "position": {
+                "column_min": 1067,
+                "row_min": 680,
+                "column_max": 1100,
+                "row_max": 714
+            },
+            "text": "Eng In",
+            "label": "icon"
+        },
+        {
+            "id": 49,
+            "class": "Compo",
+            "height": 41,
+            "width": 29,
+            "position": {
+                "column_min": 967,
+                "row_min": 676,
+                "column_max": 996,
+                "row_max": 717
+            },
+            "text": "Link",
+            "label": "icon"
+        },
+        {
+            "id": 50,
+            "class": "Compo",
+            "height": 39,
+            "width": 38,
+            "position": {
+                "column_min": 307,
+                "row_min": 679,
+                "column_max": 345,
+                "row_max": 718
+            },
+            "text": "Find",
+            "label": "icon"
+        },
+        {
+            "id": 51,
+            "class": "Compo",
+            "height": 31,
+            "width": 37,
+            "position": {
+                "column_min": 1239,
+                "row_min": 3,
+                "column_max": 1276,
+                "row_max": 34
+            },
+            "text": "Close",
+            "label": "icon"
+        },
+        {
+            "id": 52,
+            "class": "Compo",
+            "height": 39,
+            "width": 37,
+            "position": {
+                "column_min": 731,
+                "row_min": 681,
+                "column_max": 768,
+                "row_max": 720
+            },
+            "text": "System",
+            "label": "icon"
+        },
+        {
+            "id": 53,
+            "class": "Compo",
+            "height": 19,
+            "width": 18,
+            "position": {
+                "column_min": 1259,
+                "row_min": 78,
+                "column_max": 1277,
+                "row_max": 97
+            },
+            "text": "M0,0L9,5 4.5,5z",
+            "label": "icon"
+        },
+        {
+            "id": 54,
+            "class": "Compo",
+            "height": 37,
+            "width": 36,
+            "position": {
+                "column_min": 1,
+                "row_min": 2,
+                "column_max": 37,
+                "row_max": 39
+            },
+            "text": "Expand to the next item",
+            "label": "icon"
+        },
+        {
+            "id": 55,
+            "class": "Compo",
+            "height": 31,
+            "width": 26,
+            "position": {
+                "column_min": 102,
+                "row_min": 535,
+                "column_max": 128,
+                "row_max": 566
+            },
+            "text": "Find",
+            "label": "icon"
+        },
+        {
+            "id": 56,
+            "class": "Compo",
+            "height": 24,
+            "width": 21,
+            "position": {
+                "column_min": 253,
+                "row_min": 8,
+                "column_max": 274,
+                "row_max": 32
+            },
+            "text": "Close",
+            "label": "icon"
+        },
+        {
+            "id": 57,
+            "class": "Compo",
+            "height": 33,
+            "width": 34,
+            "position": {
+                "column_min": 1148,
+                "row_min": 3,
+                "column_max": 1182,
+                "row_max": 36
+            },
+            "text": "Minimize",
+            "label": "icon"
+        },
+        {
+            "id": 58,
+            "class": "Compo",
+            "height": 29,
+            "width": 27,
+            "position": {
+                "column_min": 361,
+                "row_min": 93,
+                "column_max": 388,
+                "row_max": 122
+            },
+            "text": "API",
+            "label": "icon"
+        },
+        {
+            "id": 59,
+            "class": "Compo",
+            "height": 28,
+            "width": 28,
+            "position": {
+                "column_min": 1158,
+                "row_min": 681,
+                "column_max": 1186,
+                "row_max": 709
+            },
+            "text": "Clone",
+            "label": "icon"
+        },
+        {
+            "id": 60,
+            "class": "Compo",
+            "height": 53,
+            "width": 36,
+            "position": {
+                "column_min": 1033,
+                "row_min": 85,
+                "column_max": 1069,
+                "row_max": 138
+            },
+            "text": "Brightness",
+            "label": "icon"
+        },
+        {
+            "id": 61,
+            "class": "Compo",
+            "height": 31,
+            "width": 24,
+            "position": {
+                "column_min": 1108,
+                "row_min": 681,
+                "column_max": 1132,
+                "row_max": 712
+            },
+            "text": "WiFi",
+            "label": "icon"
+        },
+        {
+            "id": 62,
+            "class": "Compo",
+            "height": 17,
+            "width": 17,
+            "position": {
+                "column_min": 1260,
+                "row_min": 652,
+                "column_max": 1277,
+                "row_max": 669
+            },
+            "text": "M0,0L9,5 4.5,5z",
+            "label": "icon"
+        },
+        {
+            "id": 63,
+            "class": "Compo",
+            "height": 41,
+            "width": 27,
+            "position": {
+                "column_min": 936,
+                "row_min": 677,
+                "column_max": 963,
+                "row_max": 718
+            },
+            "text": "Go to the next month month",
+            "label": "icon"
+        },
+        {
+            "id": 64,
+            "class": "Compo",
+            "height": 19,
+            "width": 56,
+            "position": {
+                "column_min": 213,
+                "row_min": 584,
+                "column_max": 269,
+                "row_max": 603
+            },
+            "text": "saucelecti",
+            "label": "icon"
+        },
+        {
+            "id": 65,
+            "class": "Compo",
+            "height": 29,
+            "width": 21,
+            "position": {
+                "column_min": 1135,
+                "row_min": 681,
+                "column_max": 1156,
+                "row_max": 710
+            },
+            "text": "Sound",
+            "label": "icon"
+        },
+        {
+            "id": 66,
+            "class": "Compo",
+            "height": 39,
+            "width": 35,
+            "position": {
+                "column_min": 16,
+                "row_min": 676,
+                "column_max": 51,
+                "row_max": 715
+            },
+            "text": "Notifications",
+            "label": "icon"
+        },
+        {
+            "id": 67,
+            "class": "Compo",
+            "height": 38,
+            "width": 40,
+            "position": {
+                "column_min": 1192,
+                "row_min": 610,
+                "column_max": 1232,
+                "row_max": 648
+            },
+            "text": "a code or code related function.",
+            "label": "icon"
+        },
+        {
+            "id": 68,
+            "class": "Compo",
+            "height": 21,
+            "width": 114,
+            "position": {
+                "column_min": 94,
+                "row_min": 583,
+                "column_max": 208,
+                "row_max": 604
+            },
+            "text": "Polygon-ular Searchmarks",
+            "label": "icon"
+        },
+        {
+            "id": 69,
+            "class": "Compo",
+            "height": 26,
+            "width": 74,
+            "position": {
+                "column_min": 269,
+                "row_min": 56,
+                "column_max": 343,
+                "row_max": 82
+            },
+            "text": "Center",
+            "label": "icon"
+        },
+        {
+            "id": 70,
+            "class": "Compo",
+            "height": 115,
+            "width": 9,
+            "position": {
+                "column_min": 1271,
+                "row_min": 95,
+                "column_max": 1280,
+                "row_max": 210
+            },
+            "text": "M0,0L9,0 4.5,5z",
+            "label": "icon"
+        }
+    ]
+}

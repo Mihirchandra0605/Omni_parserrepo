@@ -1,0 +1,172 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Compo",
+            "height": 26,
+            "width": 334,
+            "position": {
+                "column_min": 516,
+                "row_min": 100,
+                "column_max": 850,
+                "row_max": 126
+            },
+            "text": "Sign in to your account to continue",
+            "label": "text"
+        },
+        {
+            "id": 1,
+            "class": "Compo",
+            "height": 20,
+            "width": 46,
+            "position": {
+                "column_min": 443,
+                "row_min": 256,
+                "column_max": 489,
+                "row_max": 276
+            },
+            "text": "Email",
+            "label": "text"
+        },
+        {
+            "id": 2,
+            "class": "Compo",
+            "height": 18,
+            "width": 78,
+            "position": {
+                "column_min": 445,
+                "row_min": 345,
+                "column_max": 523,
+                "row_max": 363
+            },
+            "text": "Password",
+            "label": "text"
+        },
+        {
+            "id": 3,
+            "class": "Compo",
+            "height": 20,
+            "width": 116,
+            "position": {
+                "column_min": 467,
+                "row_min": 428,
+                "column_max": 583,
+                "row_max": 448
+            },
+            "text": "Remember me",
+            "label": "text"
+        },
+        {
+            "id": 4,
+            "class": "Compo",
+            "height": 24,
+            "width": 254,
+            "position": {
+                "column_min": 558,
+                "row_min": 565,
+                "column_max": 812,
+                "row_max": 589
+            },
+            "text": "Don't have an account? Register",
+            "label": "text"
+        },
+        {
+            "id": 5,
+            "class": "Compo",
+            "height": 44,
+            "width": 488,
+            "position": {
+                "column_min": 439,
+                "row_min": 372,
+                "column_max": 927,
+                "row_max": 416
+            },
+            "text": "Enter your password ",
+            "label": "icon"
+        },
+        {
+            "id": 6,
+            "class": "Compo",
+            "height": 45,
+            "width": 488,
+            "position": {
+                "column_min": 438,
+                "row_min": 285,
+                "column_max": 926,
+                "row_max": 330
+            },
+            "text": "Enter your email ",
+            "label": "icon"
+        },
+        {
+            "id": 7,
+            "class": "Compo",
+            "height": 23,
+            "width": 141,
+            "position": {
+                "column_min": 781,
+                "row_min": 427,
+                "column_max": 922,
+                "row_max": 450
+            },
+            "text": "Eorgotpasswordz ",
+            "label": "icon"
+        },
+        {
+            "id": 8,
+            "class": "Compo",
+            "height": 44,
+            "width": 488,
+            "position": {
+                "column_min": 438,
+                "row_min": 467,
+                "column_max": 926,
+                "row_max": 511
+            },
+            "text": "Login ",
+            "label": "icon"
+        },
+        {
+            "id": 9,
+            "class": "Compo",
+            "height": 43,
+            "width": 487,
+            "position": {
+                "column_min": 438,
+                "row_min": 183,
+                "column_max": 925,
+                "row_max": 226
+            },
+            "text": "Linkedln ISign ",
+            "label": "icon"
+        },
+        {
+            "id": 10,
+            "class": "Compo",
+            "height": 49,
+            "width": 296,
+            "position": {
+                "column_min": 536,
+                "row_min": 41,
+                "column_max": 832,
+                "row_max": 90
+            },
+            "text": "Welcome back ",
+            "label": "icon"
+        },
+        {
+            "id": 11,
+            "class": "Compo",
+            "height": 20,
+            "width": 19,
+            "position": {
+                "column_min": 443,
+                "row_min": 429,
+                "column_max": 462,
+                "row_max": 449
+            },
+            "text": "Rectangle",
+            "label": "icon"
+        }
+    ]
+}
