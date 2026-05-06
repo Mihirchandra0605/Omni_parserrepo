@@ -1,4 +1,5 @@
 import os
+import json
 from PIL import Image
 import base64
 import io
@@ -32,22 +33,56 @@ print("✅ Models loaded\n")
 
 
 # -----------------------------
+# CONVERT TO JSON
+# -----------------------------
+def convert_to_json(elements, w, h):
+
+    compos = []
+
+    for idx, elem in enumerate(elements):
+
+        bbox = elem['bbox']  # normalized
+
+        x1 = int(bbox[0] * w)
+        y1 = int(bbox[1] * h)
+        x2 = int(bbox[2] * w)
+        y2 = int(bbox[3] * h)
+
+        comp = {
+            "id": idx,
+            "class": "Compo",
+            "height": y2 - y1,
+            "width": x2 - x1,
+            "position": {
+                "column_min": x1,
+                "row_min": y1,
+                "column_max": x2,
+                "row_max": y2
+            },
+            "text": elem.get("content"),
+            "label": elem.get("type")
+        }
+
+        compos.append(comp)
+
+    return {"compos": compos}
+
+
+# -----------------------------
 # PROCESS SINGLE IMAGE
 # -----------------------------
-def process_image(image_path, output_path):
+def process_image(image_path, output_img_path, output_json_path):
 
     try:
         image = Image.open(image_path).convert("RGB")
-
         img_w, img_h = image.size
 
-        # --- CONFIG (same as gradio) ---
+        # --- CONFIG ---
         box_threshold = 0.05
         iou_threshold = 0.1
         imgsz = 640
         use_paddleocr = False
 
-        # --- DRAW CONFIG ---
         box_overlay_ratio = img_w / 3200
         draw_bbox_config = {
             'text_scale': 0.8 * box_overlay_ratio,
@@ -68,11 +103,11 @@ def process_image(image_path, output_path):
         text, ocr_bbox = ocr_bbox_rslt
 
         # --- OMNIPARSER ---
-        dino_labeled_img, label_coords, elements = get_som_labeled_img(
+        encoded_img, label_coords, elements = get_som_labeled_img(
             image,
             yolo_model,
             BOX_TRESHOLD=box_threshold,
-            output_coord_in_ratio=False,  # doesn't matter now
+            output_coord_in_ratio=False,
             ocr_bbox=ocr_bbox,
             draw_bbox_config=draw_bbox_config,
             caption_model_processor=caption_model_processor,
@@ -81,13 +116,18 @@ def process_image(image_path, output_path):
             imgsz=imgsz
         )
 
-        # --- DECODE IMAGE ---
-        vis_image = Image.open(io.BytesIO(base64.b64decode(dino_labeled_img)))
+        # --- SAVE VIS IMAGE ---
+        vis_image = Image.open(io.BytesIO(base64.b64decode(encoded_img)))
+        vis_image.save(output_img_path)
 
-        # --- SAVE ---
-        vis_image.save(output_path)
+        # --- SAVE JSON ---
+        json_data = convert_to_json(elements, img_w, img_h)
 
-        print(f" Saved: {output_path}")
+        with open(output_json_path, "w") as f:
+            json.dump(json_data, f, indent=4)
+
+        print(f" Saved: {output_img_path}")
+        print(f" Saved: {output_json_path}")
 
     except Exception as e:
         print(f" Error processing {image_path}")
@@ -108,18 +148,19 @@ def run_all():
 
             input_path = os.path.join(root, file)
 
-            # --- build output path ---
+            # --- folder structure preserve ---
             relative_path = os.path.relpath(root, INPUT_ROOT)
             output_dir = os.path.join(OUTPUT_ROOT, relative_path)
 
             os.makedirs(output_dir, exist_ok=True)
 
             name, ext = os.path.splitext(file)
-            output_file = f"{name}_omni{ext}"
 
-            output_path = os.path.join(output_dir, output_file)
+            # outputs
+            output_img = os.path.join(output_dir, f"{name}_omni.png")
+            output_json = os.path.join(output_dir, f"{name}_omni.json")
 
-            process_image(input_path, output_path)
+            process_image(input_path, output_img, output_json)
 
 
 # -----------------------------
